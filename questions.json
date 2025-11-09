@@ -10,30 +10,176 @@
     "tags": ["india", "capital"]
   },
   {
-    "id": "quant_001",
-    "questionText": "What is 15% of 200?",
-    "options": ["15", "20", "30", "45"],
-    "correctAnswerIndex": 2,
-    "explanation": "15% of 200 = (15/100) * 200 = 30",
-    "category": "Quantitative Aptitude",
+    "id": "gk_002",
+    "questionText": "Who wrote the Indian national anthem?",
+    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Mahatma Gandhi", "Subhash Chandra Bose"],
+    "correctAnswerIndex": 1,
+    "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana'.",
+    "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "eng_001",
-    "questionText": "Choose the correct spelling:",
-    "options": ["Accomodate", "Acommodate", "Acomodate", "Accommodate"],
+    "id": "gk_003",
+    "questionText": "Which is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "correctAnswerIndex": 1,
+    "explanation": "Jupiter is the largest planet in the solar system.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_004",
+    "questionText": "In which year did India gain independence?",
+    "options": ["1942", "1947", "1950", "1930"],
+    "correctAnswerIndex": 1,
+    "explanation": "India became independent on August 15, 1947.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_005",
+    "questionText": "Which is the longest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Ganga"],
+    "correctAnswerIndex": 1,
+    "explanation": "The Nile is considered the longest river in the world.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_006",
+    "questionText": "Who was the first President of India?",
+    "options": ["Jawaharlal Nehru", "Rajendra Prasad", "Dr. Radhakrishnan", "V.V. Giri"],
+    "correctAnswerIndex": 1,
+    "explanation": "Dr. Rajendra Prasad was the first President of India.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_007",
+    "questionText": "Which Indian state has the largest area?",
+    "options": ["Uttar Pradesh", "Madhya Pradesh", "Maharashtra", "Rajasthan"],
     "correctAnswerIndex": 3,
-    "explanation": "The correct spelling is \"Accommodate\" with double m and double c.",
-    "category": "English",
+    "explanation": "Rajasthan is the largest state in India by area.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_008",
+    "questionText": "What is the currency of Japan?",
+    "options": ["Yuan", "Yen", "Won", "Ringgit"],
+    "correctAnswerIndex": 1,
+    "explanation": "The Japanese currency is Yen.",
+    "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-      "id": "reason_001",
-      "questionText": "If all cats are animals, and some animals are pets, then:",
-      "options": ["All pets are cats", "Some cats are pets", "No cats are pets", "All animals are pets"],
-      "correctAnswerIndex": 1,
-      "explanation": "Some animals are pets and all cats are animals → some cats are pets.",
-      "category": "Reasoning",
-      "difficulty": "medium"
-    }
+    "id": "gk_009",
+    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "Vietnam"],
+    "correctAnswerIndex": 1,
+    "explanation": "Japan is called the Land of the Rising Sun.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_010",
+    "questionText": "Who discovered gravity?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Charles Darwin"],
+    "correctAnswerIndex": 1,
+    "explanation": "Sir Isaac Newton discovered gravity when an apple fell from a tree.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_011",
+    "questionText": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "correctAnswerIndex": 2,
+    "explanation": "Mars appears red due to iron oxide on its surface.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_012",
+    "questionText": "What is the national flower of India?",
+    "options": ["Rose", "Lily", "Lotus", "Sunflower"],
+    "correctAnswerIndex": 2,
+    "explanation": "The national flower of India is the Lotus.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_013",
+    "questionText": "Which organ purifies our blood?",
+    "options": ["Heart", "Liver", "Kidney", "Lungs"],
+    "correctAnswerIndex": 2,
+    "explanation": "Kidneys purify blood by removing waste products.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_014",
+    "questionText": "Who was known as the Iron Man of India?",
+    "options": ["Subhash Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Mahatma Gandhi"],
+    "correctAnswerIndex": 1,
+    "explanation": "Sardar Vallabhbhai Patel was called the Iron Man of India.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_015",
+    "questionText": "What is the largest ocean in the world?",
+    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "correctAnswerIndex": 2,
+    "explanation": "The Pacific Ocean is the largest and deepest ocean.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_016",
+    "questionText": "Which country gifted the Statue of Liberty to the USA?",
+    "options": ["Germany", "France", "Spain", "Italy"],
+    "correctAnswerIndex": 1,
+    "explanation": "France gifted the Statue of Liberty to the USA in 1886.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_017",
+    "questionText": "What is the chemical symbol for gold?",
+    "options": ["Gd", "Au", "Ag", "Go"],
+    "correctAnswerIndex": 1,
+    "explanation": "The chemical symbol for gold is Au.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_018",
+    "questionText": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "correctAnswerIndex": 2,
+    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_019",
+    "questionText": "Who invented the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Michael Faraday"],
+    "correctAnswerIndex": 1,
+    "explanation": "Alexander Graham Bell invented the telephone in 1876.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_020",
+    "questionText": "Which continent is known as the Dark Continent?",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "correctAnswerIndex": 1,
+    "explanation": "Africa was historically called the Dark Continent due to its unexplored nature.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  }
+
+  // ⬇ Next categories continue (Quantitative Aptitude, English, Reasoning, Current Affairs)
 ]
