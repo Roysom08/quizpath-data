@@ -1,1 +1,30 @@
-
+[
+  {
+    "id": "gk_001",
+    "questionText": "What is the capital of India?",
+    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+    "correctAnswerIndex": 2,
+    "explanation": "New Delhi is the capital of India.",
+    "category": "General Knowledge",
+    "difficulty": "easy",
+    "tags": ["india", "capital"]
+  },
+  {
+    "id": "quant_001",
+    "questionText": "What is 15% of 200?",
+    "options": ["15", "20", "30", "45"],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 200 = (15/100) * 200 = 30",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_001",
+    "questionText": "Choose the correct spelling:",
+    "options": ["Accomodate", "Acommodate", "Acomodate", "Accommodate"],
+    "correctAnswerIndex": 3,
+    "explanation": "The correct spelling is \"Accommodate\" with double m and double c.",
+    "category": "English",
+    "difficulty": "easy"
+  }
+]
