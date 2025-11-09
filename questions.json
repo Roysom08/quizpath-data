@@ -15,20 +15,6 @@
   },
   {
     "id": "gk_002",
-    "questionText": "Who wrote the Indian national anthem?",
-    "options": [
-      "Bankim Chandra Chatterjee",
-      "Rabindranath Tagore",
-      "Mahatma Gandhi",
-      "Subhash Chandra Bose"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana'.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_003",
     "questionText": "Which is the largest planet in our solar system?",
     "options": [
       "Earth",
@@ -42,7 +28,7 @@
     "difficulty": "easy"
   },
   {
-    "id": "gk_004",
+    "id": "gk_003",
     "questionText": "In which year did India gain independence?",
     "options": [
       "1942",
@@ -56,49 +42,35 @@
     "difficulty": "easy"
   },
   {
+    "id": "gk_004",
+    "questionText": "Who wrote 'Jana Gana Mana'?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "S. C. Bose"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rabindranath Tagore wrote the Indian national anthem.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
     "id": "gk_005",
     "questionText": "Which is the longest river in the world?",
     "options": [
       "Amazon",
       "Nile",
       "Yangtze",
-      "Ganga"
+      "Mississippi"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "The Nile is the longest river.",
+    "explanation": "The Nile is generally considered the longest river.",
     "category": "General Knowledge",
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "id": "gk_006",
-    "questionText": "Who was the first President of India?",
-    "options": [
-      "Jawaharlal Nehru",
-      "Rajendra Prasad",
-      "Dr. Radhakrishnan",
-      "V.V. Giri"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Dr. Rajendra Prasad was the first President.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_007",
-    "questionText": "Which Indian state has the largest area?",
-    "options": [
-      "Uttar Pradesh",
-      "Madhya Pradesh",
-      "Maharashtra",
-      "Rajasthan"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "Rajasthan is the largest state.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_008",
     "questionText": "What is the currency of Japan?",
     "options": [
       "Yuan",
@@ -107,13 +79,27 @@
       "Ringgit"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "The currency of Japan is Yen.",
+    "explanation": "Japan uses the Yen.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "gk_009",
-    "questionText": "Which country is known as the Land of the Rising Sun?",
+    "id": "gk_007",
+    "questionText": "Which organ purifies our blood?",
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lungs"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Kidneys filter waste from the blood.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_008",
+    "questionText": "Which country is called the Land of the Rising Sun?",
     "options": [
       "China",
       "Japan",
@@ -121,26 +107,68 @@
       "Vietnam"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Japan is known as the Land of the Rising Sun.",
+    "explanation": "Japan.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "gk_010",
+    "id": "gk_009",
     "questionText": "Who discovered gravity?",
     "options": [
-      "Einstein",
-      "Newton",
+      "Albert Einstein",
+      "Isaac Newton",
       "Galileo",
       "Darwin"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Isaac Newton discovered gravity.",
+    "explanation": "Sir Isaac Newton.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_010",
+    "questionText": "What is H2O commonly known as?",
+    "options": [
+      "Salt",
+      "Water",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "H2O is water.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_011",
+    "questionText": "What is the largest ocean on Earth?",
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The Pacific Ocean is the largest.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_012",
+    "questionText": "Which metal is liquid at room temperature?",
+    "options": [
+      "Mercury",
+      "Gold",
+      "Silver",
+      "Copper"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Mercury is liquid at room temperature.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_013",
     "questionText": "Which planet is known as the Red Planet?",
     "options": [
       "Venus",
@@ -154,77 +182,7 @@
     "difficulty": "easy"
   },
   {
-    "id": "gk_012",
-    "questionText": "What is the national flower of India?",
-    "options": [
-      "Rose",
-      "Lily",
-      "Lotus",
-      "Sunflower"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "The national flower is Lotus.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_013",
-    "questionText": "Which organ purifies our blood?",
-    "options": [
-      "Heart",
-      "Liver",
-      "Kidney",
-      "Lungs"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Kidneys purify blood.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
     "id": "gk_014",
-    "questionText": "Who was known as the Iron Man of India?",
-    "options": [
-      "Subhash Bose",
-      "Sardar Patel",
-      "Bhagat Singh",
-      "Gandhi"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Sardar Patel was called Iron Man.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_015",
-    "questionText": "What is the largest ocean in the world?",
-    "options": [
-      "Atlantic",
-      "Indian",
-      "Pacific",
-      "Arctic"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "The Pacific Ocean is the largest.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_016",
-    "questionText": "Which country gifted the Statue of Liberty to the USA?",
-    "options": [
-      "Germany",
-      "France",
-      "Spain",
-      "Italy"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "France gifted it to the USA.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_017",
     "questionText": "What is the chemical symbol for gold?",
     "options": [
       "Gd",
@@ -233,40 +191,68 @@
       "Go"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "The chemical symbol for gold is Au.",
+    "explanation": "Gold's symbol is Au.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "gk_018",
-    "questionText": "Which gas is most abundant in Earth's atmosphere?",
-    "options": [
-      "Oxygen",
-      "CO2",
-      "Nitrogen",
-      "Hydrogen"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Nitrogen is most abundant.",
-    "category": "General Knowledge",
-    "difficulty": "easy"
-  },
-  {
-    "id": "gk_019",
+    "id": "gk_015",
     "questionText": "Who invented the telephone?",
     "options": [
       "Edison",
-      "Bell",
+      "Alexander Graham Bell",
       "Tesla",
       "Faraday"
     ],
     "correctAnswerIndex": 1,
     "explanation": "Alexander Graham Bell invented the telephone.",
     "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_016",
+    "questionText": "Which Indian state is the largest by area?",
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Rajasthan is the largest by area.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_017",
+    "questionText": "What is the national flower of India?",
+    "options": [
+      "Rose",
+      "Lily",
+      "Lotus",
+      "Sunflower"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Lotus.",
+    "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "gk_020",
+    "id": "gk_018",
+    "questionText": "Who was known as the Iron Man of India?",
+    "options": [
+      "Bhagat Singh",
+      "Sardar Vallabhbhai Patel",
+      "Subhash Chandra Bose",
+      "Mahatma Gandhi"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Sardar Patel.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_019",
     "questionText": "Which continent is known as the Dark Continent?",
     "options": [
       "Asia",
@@ -275,26 +261,1146 @@
       "Australia"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Africa is known as the Dark Continent.",
+    "explanation": "Africa.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_020",
+    "questionText": "How many states are there in India?",
+    "options": [
+      "28",
+      "29",
+      "30",
+      "27"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "As of 2023, India has 28 states.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_021",
+    "questionText": "What is the capital of France?",
+    "options": [
+      "Lyon",
+      "Marseille",
+      "Paris",
+      "Nice"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Paris is the capital of France.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "quant_001",
-    "questionText": "What is 15% of 200?",
+    "id": "gk_022",
+    "questionText": "What is the capital of Germany?",
     "options": [
-      "15",
-      "20",
-      "30",
-      "45"
+      "Munich",
+      "Berlin",
+      "Hamburg",
+      "Frankfurt"
     ],
-    "correctAnswerIndex": 2,
-    "explanation": "15% of 200 = (15/100)*200 = 30",
-    "category": "Quantitative Aptitude",
+    "correctAnswerIndex": 1,
+    "explanation": "Berlin is the capital of Germany.",
+    "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
-    "id": "quant_002",
+    "id": "gk_023",
+    "questionText": "What is the capital of Italy?",
+    "options": [
+      "Milan",
+      "Rome",
+      "Naples",
+      "Turin"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rome is the capital of Italy.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_024",
+    "questionText": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Seville",
+      "Madrid",
+      "Valencia"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Madrid is the capital of Spain.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_025",
+    "questionText": "What is the capital of the UK?",
+    "options": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Edinburgh"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "London is the capital of the UK.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_026",
+    "questionText": "What is the capital of China?",
+    "options": [
+      "Beijing",
+      "Shanghai",
+      "Shenzhen",
+      "Guangzhou"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Beijing is the capital of China.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_027",
+    "questionText": "What is the capital of Japan?",
+    "options": [
+      "Kyoto",
+      "Osaka",
+      "Tokyo",
+      "Sapporo"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Tokyo is the capital of Japan.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_028",
+    "questionText": "What is the capital of Russia?",
+    "options": [
+      "St. Petersburg",
+      "Moscow",
+      "Kazan",
+      "Novosibirsk"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Moscow is the capital of Russia.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_029",
+    "questionText": "What is the capital of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Ottawa is the capital of Canada.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_030",
+    "questionText": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Canberra is the capital of Australia.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_031",
+    "questionText": "What is the capital of Brazil?",
+    "options": [
+      "S\u00e3o Paulo",
+      "Rio de Janeiro",
+      "Bras\u00edlia",
+      "Salvador"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bras\u00edlia is the capital of Brazil.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_032",
+    "questionText": "What is the capital of South Africa?",
+    "options": [
+      "Pretoria",
+      "Cape Town",
+      "Bloemfontein",
+      "All of these"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "South Africa has three capitals.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_033",
+    "questionText": "What is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Giza",
+      "Cairo",
+      "Luxor"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Cairo is the capital of Egypt.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_034",
+    "questionText": "What is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Abuja is the capital of Nigeria.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_035",
+    "questionText": "What is the capital of Kenya?",
+    "options": [
+      "Mombasa",
+      "Nairobi",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Nairobi is the capital of Kenya.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_036",
+    "questionText": "What is the capital of Argentina?",
+    "options": [
+      "Buenos Aires",
+      "C\u00f3rdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Buenos Aires is the capital of Argentina.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_037",
+    "questionText": "What is the capital of Mexico?",
+    "options": [
+      "Guadalajara",
+      "Monterrey",
+      "Mexico City",
+      "Puebla"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mexico City is the capital of Mexico.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_038",
+    "questionText": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Mecca",
+      "Riyadh",
+      "Dammam"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Riyadh is the capital of Saudi Arabia.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_039",
+    "questionText": "What is the capital of UAE?",
+    "options": [
+      "Dubai",
+      "Abu Dhabi",
+      "Sharjah",
+      "Ajman"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Abu Dhabi is the capital of the UAE.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_040",
+    "questionText": "What is the capital of Thailand?",
+    "options": [
+      "Phuket",
+      "Chiang Mai",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bangkok is the capital of Thailand.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_041",
+    "questionText": "What is the capital of Nepal?",
+    "options": [
+      "Kathmandu",
+      "Pokhara",
+      "Lalitpur",
+      "Biratnagar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kathmandu is the capital of Nepal.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_042",
+    "questionText": "What is the capital of Bhutan?",
+    "options": [
+      "Thimphu",
+      "Paro",
+      "Punakha",
+      "Trongsa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thimphu is the capital of Bhutan.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_043",
+    "questionText": "What is the capital of Sri Lanka?",
+    "options": [
+      "Colombo",
+      "Sri Jayawardenepura Kotte",
+      "Kandy",
+      "Galle"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Official capital is Sri Jayawardenepura Kotte; Colombo is commercial capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_044",
+    "questionText": "What is the capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Peshawar"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Islamabad is the capital of Pakistan.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_045",
+    "questionText": "What is the capital of Bangladesh?",
+    "options": [
+      "Chittagong",
+      "Sylhet",
+      "Dhaka",
+      "Khulna"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Dhaka is the capital of Bangladesh.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_046",
+    "questionText": "What is the capital of Indonesia?",
+    "options": [
+      "Jakarta",
+      "Bali",
+      "Bandung",
+      "Surabaya"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Jakarta (moving to Nusantara in future).",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_047",
+    "questionText": "What is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Daegu",
+      "Seoul",
+      "Incheon"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Seoul is the capital of South Korea.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_048",
+    "questionText": "What is the capital of North Korea?",
+    "options": [
+      "Seoul",
+      "Pyongyang",
+      "Hamhung",
+      "Sinuiju"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pyongyang is the capital of North Korea.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_049",
+    "questionText": "What is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ankara is the capital of Turkey.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_050",
+    "questionText": "What is the capital of Iran?",
+    "options": [
+      "Tehran",
+      "Mashhad",
+      "Isfahan",
+      "Shiraz"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Tehran is the capital of Iran.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_051",
+    "questionText": "What is the capital of Israel?",
+    "options": [
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa",
+      "Eilat"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jerusalem is the capital of Israel.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_052",
+    "questionText": "What is the capital of Greece?",
+    "options": [
+      "Athens",
+      "Thessaloniki",
+      "Patras",
+      "Heraklion"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Athens is the capital of Greece.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_053",
+    "questionText": "What is the capital of Portugal?",
+    "options": [
+      "Lisbon",
+      "Porto",
+      "Braga",
+      "Coimbra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Lisbon is the capital of Portugal.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_054",
+    "questionText": "What is the capital of Netherlands?",
+    "options": [
+      "Amsterdam",
+      "Rotterdam",
+      "The Hague",
+      "Utrecht"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Amsterdam is the constitutional capital; govt in The Hague.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_055",
+    "questionText": "What is the capital of Belgium?",
+    "options": [
+      "Brussels",
+      "Antwerp",
+      "Ghent",
+      "Bruges"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Brussels is the capital of Belgium.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_056",
+    "questionText": "What is the capital of Switzerland?",
+    "options": [
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Basel"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Bern is the de facto capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_057",
+    "questionText": "What is the capital of Sweden?",
+    "options": [
+      "Gothenburg",
+      "Malm\u00f6",
+      "Stockholm",
+      "Uppsala"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Stockholm is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_058",
+    "questionText": "What is the capital of Norway?",
+    "options": [
+      "Oslo",
+      "Bergen",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Oslo is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_059",
+    "questionText": "What is the capital of Denmark?",
+    "options": [
+      "Copenhagen",
+      "Aarhus",
+      "Odense",
+      "Aalborg"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Copenhagen is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_060",
+    "questionText": "What is the capital of Finland?",
+    "options": [
+      "Helsinki",
+      "Tampere",
+      "Turku",
+      "Espoo"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Helsinki is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_061",
+    "questionText": "What is the capital of Poland?",
+    "options": [
+      "Krakow",
+      "Warsaw",
+      "Gdansk",
+      "Wroclaw"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Warsaw is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_062",
+    "questionText": "What is the capital of Austria?",
+    "options": [
+      "Vienna",
+      "Salzburg",
+      "Graz",
+      "Linz"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vienna is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_063",
+    "questionText": "What is the capital of Hungary?",
+    "options": [
+      "Debrecen",
+      "Szeged",
+      "Budapest",
+      "P\u00e9cs"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Budapest is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_064",
+    "questionText": "What is the capital of Czechia (Czech Republic)?",
+    "options": [
+      "Prague",
+      "Brno",
+      "Ostrava",
+      "Pilsen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Prague is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_065",
+    "questionText": "What is the capital of Ireland?",
+    "options": [
+      "Dublin",
+      "Cork",
+      "Galway",
+      "Limerick"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Dublin is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_066",
+    "questionText": "What is the capital of New Zealand?",
+    "options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Wellington is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_067",
+    "questionText": "What is the capital of Philippines?",
+    "options": [
+      "Cebu",
+      "Davao",
+      "Manila",
+      "Quezon City"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Manila is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_068",
+    "questionText": "What is the capital of Singapore?",
+    "options": [
+      "Singapore",
+      "Johor Bahru",
+      "Pulau Ujong",
+      "Sentosa"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "City-state: Singapore.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_069",
+    "questionText": "What is the capital of Vietnam?",
+    "options": [
+      "Ho Chi Minh City",
+      "Hanoi",
+      "Da Nang",
+      "Hue"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Hanoi is the capital.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_070",
+    "questionText": "What is the capital of Malaysia?",
+    "options": [
+      "Kuala Lumpur",
+      "Putrajaya",
+      "Ipoh",
+      "Johor Bahru"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Kuala Lumpur is the national capital; admin in Putrajaya.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_071",
+    "questionText": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Plants absorb CO\u2082 to make food.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_072",
+    "questionText": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Skin synthesizes Vitamin D.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_073",
+    "questionText": "Which is the smallest continent by land area?",
+    "options": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Australia is the smallest continent (by land area).",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_074",
+    "questionText": "Which is the hardest natural substance?",
+    "options": [
+      "Gold",
+      "Diamond",
+      "Iron",
+      "Quartz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Diamond is the hardest naturally occurring material.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_075",
+    "questionText": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Barometer measures air pressure.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_076",
+    "questionText": "Which planet has the most moons?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jupiter has the most confirmed moons.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_077",
+    "questionText": "What is the study of fossils called?",
+    "options": [
+      "Ecology",
+      "Geology",
+      "Paleontology",
+      "Archaeology"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Paleontology studies fossils.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_078",
+    "questionText": "Which layer of Earth is liquid?",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Outer core",
+      "Inner core"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The outer core is liquid.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_079",
+    "questionText": "Which device converts AC to DC?",
+    "options": [
+      "Transformer",
+      "Rectifier",
+      "Amplifier",
+      "Oscillator"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rectifier converts AC to DC.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_080",
+    "questionText": "Which is the largest desert in the world?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Arabian",
+      "Antarctic Desert"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Antarctic is the largest cold desert.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_081",
+    "questionText": "What is the boiling point of water at sea level?",
+    "options": [
+      "50\u00b0C",
+      "100\u00b0C",
+      "150\u00b0C",
+      "212\u00b0C"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "100\u00b0C (212\u00b0F).",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_082",
+    "questionText": "What is the SI unit of force?",
+    "options": [
+      "Watt",
+      "Newton",
+      "Joule",
+      "Pascal"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SI unit of force is Newton.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_083",
+    "questionText": "Which blood group is the universal donor?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O negative"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "O negative is universal donor.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_084",
+    "questionText": "Which scientist proposed the theory of relativity?",
+    "options": [
+      "Newton",
+      "Einstein",
+      "Maxwell",
+      "Bohr"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Albert Einstein.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_085",
+    "questionText": "Which country invented paper?",
+    "options": [
+      "India",
+      "Egypt",
+      "China",
+      "Greece"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Paper was invented in ancient China.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_086",
+    "questionText": "What is the longest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Femur",
+      "Humerus",
+      "Fibula"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Femur.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_087",
+    "questionText": "Which part of the cell contains genetic material?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Nucleus contains DNA.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_088",
+    "questionText": "What is the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Chloroplast"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Mitochondria generate ATP.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_089",
+    "questionText": "Which country is known for the Great Barrier Reef?",
+    "options": [
+      "USA",
+      "Australia",
+      "South Africa",
+      "Brazil"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Great Barrier Reef is in Australia.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_090",
+    "questionText": "Which city is called the 'Silicon Valley of India'?",
+    "options": [
+      "Hyderabad",
+      "Bengaluru",
+      "Pune",
+      "Chennai"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Bengaluru.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_091",
+    "questionText": "Which gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Plants absorb CO\u2082 to make food.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_092",
+    "questionText": "Which vitamin is produced when skin is exposed to sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Skin synthesizes Vitamin D.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_093",
+    "questionText": "Which is the smallest continent by land area?",
+    "options": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Australia is the smallest continent (by land area).",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_094",
+    "questionText": "Which is the hardest natural substance?",
+    "options": [
+      "Gold",
+      "Diamond",
+      "Iron",
+      "Quartz"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Diamond is the hardest naturally occurring material.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_095",
+    "questionText": "Which instrument measures atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Barometer measures air pressure.",
+    "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "gk_096",
+    "questionText": "Which planet has the most moons?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Mars",
+      "Neptune"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Jupiter has the most confirmed moons.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_097",
+    "questionText": "What is the study of fossils called?",
+    "options": [
+      "Ecology",
+      "Geology",
+      "Paleontology",
+      "Archaeology"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Paleontology studies fossils.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_098",
+    "questionText": "Which layer of Earth is liquid?",
+    "options": [
+      "Crust",
+      "Mantle",
+      "Outer core",
+      "Inner core"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The outer core is liquid.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_099",
+    "questionText": "Which device converts AC to DC?",
+    "options": [
+      "Transformer",
+      "Rectifier",
+      "Amplifier",
+      "Oscillator"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Rectifier converts AC to DC.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "gk_100",
+    "questionText": "Which is the largest desert in the world?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Arabian",
+      "Antarctic Desert"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Antarctic is the largest cold desert.",
+    "category": "General Knowledge",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_001",
     "questionText": "Simplify: 25 \u00d7 4 \u00f7 5",
     "options": [
       "10",
@@ -308,7 +1414,7 @@
     "difficulty": "easy"
   },
   {
-    "id": "quant_003",
+    "id": "quant_002",
     "questionText": "Find the square root of 81.",
     "options": [
       "7",
@@ -322,8 +1428,8 @@
     "difficulty": "easy"
   },
   {
-    "id": "quant_004",
-    "questionText": "What is 12\u00b2?",
+    "id": "quant_003",
+    "questionText": "12\u00b2 equals:",
     "options": [
       "122",
       "144",
@@ -336,22 +1442,8 @@
     "difficulty": "easy"
   },
   {
-    "id": "quant_005",
-    "questionText": "What is the value of \u03c0 (approx)?",
-    "options": [
-      "2.12",
-      "3.14",
-      "3.33",
-      "3.00"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "\u03c0 \u2248 3.14",
-    "category": "Quantitative Aptitude",
-    "difficulty": "easy"
-  },
-  {
-    "id": "quant_006",
-    "questionText": "Convert 0.75 into a fraction.",
+    "id": "quant_004",
+    "questionText": "Convert 0.75 to fraction.",
     "options": [
       "3/4",
       "1/3",
@@ -364,8 +1456,8 @@
     "difficulty": "easy"
   },
   {
-    "id": "quant_007",
-    "questionText": "Simplify: (5 + 3) \u00d7 2",
+    "id": "quant_005",
+    "questionText": "(5 + 3) \u00d7 2 =",
     "options": [
       "8",
       "10",
@@ -373,13 +1465,13 @@
       "20"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "(5+3)=8, 8\u00d72=16",
+    "explanation": "(5+3)=8 \u2192 8\u00d72=16",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
-    "id": "quant_008",
-    "questionText": "Find the average of 10, 20, and 30.",
+    "id": "quant_006",
+    "questionText": "Average of 10, 20, 30 =",
     "options": [
       "15",
       "20",
@@ -387,13 +1479,13 @@
       "30"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "(10+20+30)/3=20",
+    "explanation": "Sum=60 \u2192 60/3=20",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
-    "id": "quant_009",
-    "questionText": "Find 20% of 250.",
+    "id": "quant_007",
+    "questionText": "20% of 250 =",
     "options": [
       "25",
       "30",
@@ -406,22 +1498,8 @@
     "difficulty": "easy"
   },
   {
-    "id": "quant_010",
-    "questionText": "A train runs 60 km in 1 hour. What is its speed?",
-    "options": [
-      "30 km/h",
-      "40 km/h",
-      "60 km/h",
-      "80 km/h"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "Speed = 60 km/h",
-    "category": "Quantitative Aptitude",
-    "difficulty": "easy"
-  },
-  {
-    "id": "quant_011",
-    "questionText": "What is 3/5 of 100?",
+    "id": "quant_008",
+    "questionText": "3/5 of 100 =",
     "options": [
       "50",
       "55",
@@ -429,13 +1507,13 @@
       "65"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "3/5 \u00d7 100 = 60",
+    "explanation": "3/5\u00d7100=60",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
-    "id": "quant_012",
-    "questionText": "If cost price = 200 and selling price = 250, profit = ?",
+    "id": "quant_009",
+    "questionText": "Profit if CP=200, SP=250?",
     "options": [
       "20",
       "25",
@@ -443,13 +1521,13 @@
       "40"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Profit = 250 - 200 = 50",
+    "explanation": "Profit=50",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
-    "id": "quant_013",
-    "questionText": "Simplify: 8 \u00d7 (3 + 2)",
+    "id": "quant_010",
+    "questionText": "8 \u00d7 (3 + 2) =",
     "options": [
       "32",
       "40",
@@ -462,8 +1540,8 @@
     "difficulty": "easy"
   },
   {
-    "id": "quant_014",
-    "questionText": "What is the next number in series 2, 4, 8, 16, ?",
+    "id": "quant_011",
+    "questionText": "Next in 2, 4, 8, 16, ?",
     "options": [
       "18",
       "24",
@@ -471,91 +1549,1253 @@
       "36"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Pattern: \u00d72 \u2192 next is 32",
+    "explanation": "\u00d72 pattern \u2192 32",
     "category": "Quantitative Aptitude",
-    "difficulty": "easy"
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_012",
+    "questionText": "Next in 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "36"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Squares \u2192 25",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_013",
+    "questionText": "Fill: 5, 10, 20, 40, ?",
+    "options": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "\u00d72 pattern \u2192 80",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_014",
+    "questionText": "Fill: 3, 6, 12, 24, ?",
+    "options": [
+      "30",
+      "36",
+      "48",
+      "60"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "\u00d72 \u2192 48",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
   },
   {
     "id": "quant_015",
-    "questionText": "Find the cube of 3.",
+    "questionText": "Fill: 2, 6, 12, 20, ?",
     "options": [
-      "6",
-      "9",
-      "27",
-      "30"
+      "28",
+      "30",
+      "32",
+      "36"
     ],
-    "correctAnswerIndex": 2,
-    "explanation": "3\u00b3 = 27",
+    "correctAnswerIndex": 1,
+    "explanation": "+4,+6,+8 \u2192 +10 \u2192 30",
     "category": "Quantitative Aptitude",
-    "difficulty": "easy"
+    "difficulty": "medium"
   },
   {
     "id": "quant_016",
-    "questionText": "If 4x = 20, find x.",
+    "questionText": "What is 5% of 80?",
     "options": [
+      "1",
       "4",
-      "5",
-      "6",
-      "8"
+      "4",
+      "9"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "x = 20/4 = 5",
+    "correctAnswerIndex": 2,
+    "explanation": "5% of 80 = (5/100)\u00d780 = 4",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
     "id": "quant_017",
-    "questionText": "Simplify: 9 \u00d7 9",
+    "questionText": "What is 5% of 120?",
     "options": [
-      "81",
-      "72",
-      "99",
-      "91"
+      "2",
+      "1",
+      "6",
+      "11"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "9\u00d79=81",
+    "correctAnswerIndex": 2,
+    "explanation": "5% of 120 = (5/100)\u00d7120 = 6",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
     "id": "quant_018",
-    "questionText": "A man walks 5 km east, then 5 km north. Total distance?",
+    "questionText": "What is 5% of 150?",
     "options": [
-      "5",
-      "10",
-      "15",
-      "8"
+      "2",
+      "2",
+      "7",
+      "12"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Total distance = 5 + 5 = 10 km",
+    "correctAnswerIndex": 2,
+    "explanation": "5% of 150 = (5/100)\u00d7150 = 7",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
     "id": "quant_019",
-    "questionText": "What is \u00be of 200?",
+    "questionText": "What is 5% of 200?",
     "options": [
-      "100",
-      "120",
-      "150",
-      "180"
+      "3",
+      "5",
+      "10",
+      "15"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "\u00be \u00d7 200 = 150",
+    "explanation": "5% of 200 = (5/100)\u00d7200 = 10",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
   {
     "id": "quant_020",
-    "questionText": "If 5 pencils cost \u20b950, cost of one pencil = ?",
+    "questionText": "What is 5% of 240?",
     "options": [
-      "\u20b95",
-      "\u20b98",
-      "\u20b910",
-      "\u20b912"
+      "4",
+      "7",
+      "12",
+      "17"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "\u20b950 \u00f7 5 = \u20b910",
+    "explanation": "5% of 240 = (5/100)\u00d7240 = 12",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_021",
+    "questionText": "What is 5% of 300?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "5% of 300 = (5/100)\u00d7300 = 15",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_022",
+    "questionText": "What is 5% of 400?",
+    "options": [
+      "6",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "5% of 400 = (5/100)\u00d7400 = 20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_023",
+    "questionText": "What is 5% of 500?",
+    "options": [
+      "8",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "5% of 500 = (5/100)\u00d7500 = 25",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_024",
+    "questionText": "What is 10% of 80?",
+    "options": [
+      "2",
+      "3",
+      "8",
+      "13"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 80 = (10/100)\u00d780 = 8",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_025",
+    "questionText": "What is 10% of 120?",
+    "options": [
+      "4",
+      "7",
+      "12",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 120 = (10/100)\u00d7120 = 12",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_026",
+    "questionText": "What is 10% of 150?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 150 = (10/100)\u00d7150 = 15",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_027",
+    "questionText": "What is 10% of 200?",
+    "options": [
+      "6",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 200 = (10/100)\u00d7200 = 20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_028",
+    "questionText": "What is 10% of 240?",
+    "options": [
+      "8",
+      "19",
+      "24",
+      "29"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 240 = (10/100)\u00d7240 = 24",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_029",
+    "questionText": "What is 10% of 300?",
+    "options": [
+      "10",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 300 = (10/100)\u00d7300 = 30",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_030",
+    "questionText": "What is 10% of 400?",
+    "options": [
+      "13",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 400 = (10/100)\u00d7400 = 40",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_031",
+    "questionText": "What is 10% of 500?",
+    "options": [
+      "16",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "10% of 500 = (10/100)\u00d7500 = 50",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_032",
+    "questionText": "What is 12% of 80?",
+    "options": [
+      "3",
+      "4",
+      "9",
+      "14"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 80 = (12/100)\u00d780 = 9",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_033",
+    "questionText": "What is 12% of 120?",
+    "options": [
+      "4",
+      "9",
+      "14",
+      "19"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 120 = (12/100)\u00d7120 = 14",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_034",
+    "questionText": "What is 12% of 150?",
+    "options": [
+      "6",
+      "13",
+      "18",
+      "23"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 150 = (12/100)\u00d7150 = 18",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_035",
+    "questionText": "What is 12% of 200?",
+    "options": [
+      "8",
+      "19",
+      "24",
+      "29"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 200 = (12/100)\u00d7200 = 24",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_036",
+    "questionText": "What is 12% of 240?",
+    "options": [
+      "9",
+      "23",
+      "28",
+      "33"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 240 = (12/100)\u00d7240 = 28",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_037",
+    "questionText": "What is 12% of 300?",
+    "options": [
+      "12",
+      "31",
+      "36",
+      "41"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 300 = (12/100)\u00d7300 = 36",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_038",
+    "questionText": "What is 12% of 400?",
+    "options": [
+      "16",
+      "43",
+      "48",
+      "53"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 400 = (12/100)\u00d7400 = 48",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_039",
+    "questionText": "What is 12% of 500?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "12% of 500 = (12/100)\u00d7500 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_040",
+    "questionText": "What is 15% of 80?",
+    "options": [
+      "4",
+      "7",
+      "12",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 80 = (15/100)\u00d780 = 12",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_041",
+    "questionText": "What is 15% of 120?",
+    "options": [
+      "6",
+      "13",
+      "18",
+      "23"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 120 = (15/100)\u00d7120 = 18",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_042",
+    "questionText": "What is 15% of 150?",
+    "options": [
+      "7",
+      "17",
+      "22",
+      "27"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 150 = (15/100)\u00d7150 = 22",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_043",
+    "questionText": "What is 15% of 200?",
+    "options": [
+      "10",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 200 = (15/100)\u00d7200 = 30",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_044",
+    "questionText": "What is 15% of 240?",
+    "options": [
+      "12",
+      "31",
+      "36",
+      "41"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 240 = (15/100)\u00d7240 = 36",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_045",
+    "questionText": "What is 15% of 300?",
+    "options": [
+      "15",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 300 = (15/100)\u00d7300 = 45",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_046",
+    "questionText": "What is 15% of 400?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 400 = (15/100)\u00d7400 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_047",
+    "questionText": "What is 15% of 500?",
+    "options": [
+      "25",
+      "70",
+      "75",
+      "80"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 500 = (15/100)\u00d7500 = 75",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_048",
+    "questionText": "What is 20% of 80?",
+    "options": [
+      "5",
+      "11",
+      "16",
+      "21"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 80 = (20/100)\u00d780 = 16",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_049",
+    "questionText": "What is 20% of 120?",
+    "options": [
+      "8",
+      "19",
+      "24",
+      "29"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 120 = (20/100)\u00d7120 = 24",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_050",
+    "questionText": "What is 20% of 150?",
+    "options": [
+      "10",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 150 = (20/100)\u00d7150 = 30",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_051",
+    "questionText": "What is 20% of 200?",
+    "options": [
+      "13",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 200 = (20/100)\u00d7200 = 40",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_052",
+    "questionText": "What is 20% of 240?",
+    "options": [
+      "16",
+      "43",
+      "48",
+      "53"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 240 = (20/100)\u00d7240 = 48",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_053",
+    "questionText": "What is 20% of 300?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 300 = (20/100)\u00d7300 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_054",
+    "questionText": "What is 20% of 400?",
+    "options": [
+      "26",
+      "75",
+      "80",
+      "85"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 400 = (20/100)\u00d7400 = 80",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_055",
+    "questionText": "What is 20% of 500?",
+    "options": [
+      "33",
+      "95",
+      "100",
+      "105"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "20% of 500 = (20/100)\u00d7500 = 100",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_056",
+    "questionText": "What is 25% of 80?",
+    "options": [
+      "6",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 80 = (25/100)\u00d780 = 20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_057",
+    "questionText": "What is 25% of 120?",
+    "options": [
+      "10",
+      "25",
+      "30",
+      "35"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 120 = (25/100)\u00d7120 = 30",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_058",
+    "questionText": "What is 25% of 150?",
+    "options": [
+      "12",
+      "32",
+      "37",
+      "42"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 150 = (25/100)\u00d7150 = 37",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_059",
+    "questionText": "What is 25% of 200?",
+    "options": [
+      "16",
+      "45",
+      "50",
+      "55"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 200 = (25/100)\u00d7200 = 50",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_060",
+    "questionText": "What is 25% of 240?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 240 = (25/100)\u00d7240 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_061",
+    "questionText": "What is 25% of 300?",
+    "options": [
+      "25",
+      "70",
+      "75",
+      "80"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 300 = (25/100)\u00d7300 = 75",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_062",
+    "questionText": "What is 25% of 400?",
+    "options": [
+      "33",
+      "95",
+      "100",
+      "105"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 400 = (25/100)\u00d7400 = 100",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_063",
+    "questionText": "What is 25% of 500?",
+    "options": [
+      "41",
+      "120",
+      "125",
+      "130"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25% of 500 = (25/100)\u00d7500 = 125",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_064",
+    "questionText": "What is 30% of 80?",
+    "options": [
+      "8",
+      "19",
+      "24",
+      "29"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 80 = (30/100)\u00d780 = 24",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_065",
+    "questionText": "What is 30% of 120?",
+    "options": [
+      "12",
+      "31",
+      "36",
+      "41"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 120 = (30/100)\u00d7120 = 36",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_066",
+    "questionText": "What is 30% of 150?",
+    "options": [
+      "15",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 150 = (30/100)\u00d7150 = 45",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_067",
+    "questionText": "What is 30% of 200?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 200 = (30/100)\u00d7200 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_068",
+    "questionText": "What is 30% of 240?",
+    "options": [
+      "24",
+      "67",
+      "72",
+      "77"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 240 = (30/100)\u00d7240 = 72",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_069",
+    "questionText": "What is 30% of 300?",
+    "options": [
+      "30",
+      "85",
+      "90",
+      "95"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 300 = (30/100)\u00d7300 = 90",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_070",
+    "questionText": "What is 30% of 400?",
+    "options": [
+      "40",
+      "115",
+      "120",
+      "125"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 400 = (30/100)\u00d7400 = 120",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_071",
+    "questionText": "What is 30% of 500?",
+    "options": [
+      "50",
+      "145",
+      "150",
+      "155"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "30% of 500 = (30/100)\u00d7500 = 150",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_072",
+    "questionText": "What is 40% of 80?",
+    "options": [
+      "10",
+      "27",
+      "32",
+      "37"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 80 = (40/100)\u00d780 = 32",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_073",
+    "questionText": "What is 40% of 120?",
+    "options": [
+      "16",
+      "43",
+      "48",
+      "53"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 120 = (40/100)\u00d7120 = 48",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_074",
+    "questionText": "What is 40% of 150?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 150 = (40/100)\u00d7150 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_075",
+    "questionText": "What is 40% of 200?",
+    "options": [
+      "26",
+      "75",
+      "80",
+      "85"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 200 = (40/100)\u00d7200 = 80",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_076",
+    "questionText": "What is 40% of 240?",
+    "options": [
+      "32",
+      "91",
+      "96",
+      "101"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 240 = (40/100)\u00d7240 = 96",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_077",
+    "questionText": "What is 40% of 300?",
+    "options": [
+      "40",
+      "115",
+      "120",
+      "125"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 300 = (40/100)\u00d7300 = 120",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_078",
+    "questionText": "What is 40% of 400?",
+    "options": [
+      "53",
+      "155",
+      "160",
+      "165"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 400 = (40/100)\u00d7400 = 160",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_079",
+    "questionText": "What is 40% of 500?",
+    "options": [
+      "66",
+      "195",
+      "200",
+      "205"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "40% of 500 = (40/100)\u00d7500 = 200",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_080",
+    "questionText": "What is 50% of 80?",
+    "options": [
+      "13",
+      "35",
+      "40",
+      "45"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 80 = (50/100)\u00d780 = 40",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_081",
+    "questionText": "What is 50% of 120?",
+    "options": [
+      "20",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 120 = (50/100)\u00d7120 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_082",
+    "questionText": "What is 50% of 150?",
+    "options": [
+      "25",
+      "70",
+      "75",
+      "80"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 150 = (50/100)\u00d7150 = 75",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_083",
+    "questionText": "What is 50% of 200?",
+    "options": [
+      "33",
+      "95",
+      "100",
+      "105"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 200 = (50/100)\u00d7200 = 100",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_084",
+    "questionText": "What is 50% of 240?",
+    "options": [
+      "40",
+      "115",
+      "120",
+      "125"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 240 = (50/100)\u00d7240 = 120",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_085",
+    "questionText": "What is 50% of 300?",
+    "options": [
+      "50",
+      "145",
+      "150",
+      "155"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 300 = (50/100)\u00d7300 = 150",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_086",
+    "questionText": "What is 50% of 400?",
+    "options": [
+      "66",
+      "195",
+      "200",
+      "205"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 400 = (50/100)\u00d7400 = 200",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_087",
+    "questionText": "What is 50% of 500?",
+    "options": [
+      "83",
+      "245",
+      "250",
+      "255"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "50% of 500 = (50/100)\u00d7500 = 250",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_088",
+    "questionText": "A car travels 120 km in 3 hours. What is its speed?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speed = Distance/Time = 120/3 = 40 km/h",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_089",
+    "questionText": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3x=30 \u2192 x=10 \u2192 girls=2x=20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_090",
+    "questionText": "Find simple interest on \u20b91000 at 10% per annum for 2 years.",
+    "options": [
+      "\u20b9100",
+      "\u20b9150",
+      "\u20b9180",
+      "\u20b9200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "SI = PRT/100 = 1000\u00d710\u00d72/100 = \u20b9200",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_091",
+    "questionText": "A car travels 120 km in 3 hours. What is its speed?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speed = Distance/Time = 120/3 = 40 km/h",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_092",
+    "questionText": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3x=30 \u2192 x=10 \u2192 girls=2x=20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_093",
+    "questionText": "Find simple interest on \u20b91000 at 10% per annum for 2 years.",
+    "options": [
+      "\u20b9100",
+      "\u20b9150",
+      "\u20b9180",
+      "\u20b9200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "SI = PRT/100 = 1000\u00d710\u00d72/100 = \u20b9200",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_094",
+    "questionText": "A car travels 120 km in 3 hours. What is its speed?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speed = Distance/Time = 120/3 = 40 km/h",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_095",
+    "questionText": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3x=30 \u2192 x=10 \u2192 girls=2x=20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_096",
+    "questionText": "Find simple interest on \u20b91000 at 10% per annum for 2 years.",
+    "options": [
+      "\u20b9100",
+      "\u20b9150",
+      "\u20b9180",
+      "\u20b9200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "SI = PRT/100 = 1000\u00d710\u00d72/100 = \u20b9200",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_097",
+    "questionText": "A car travels 120 km in 3 hours. What is its speed?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speed = Distance/Time = 120/3 = 40 km/h",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_098",
+    "questionText": "If the ratio of boys to girls is 3:2 and there are 30 boys, how many girls are there?",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3x=30 \u2192 x=10 \u2192 girls=2x=20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "medium"
+  },
+  {
+    "id": "quant_099",
+    "questionText": "Find simple interest on \u20b91000 at 10% per annum for 2 years.",
+    "options": [
+      "\u20b9100",
+      "\u20b9150",
+      "\u20b9180",
+      "\u20b9200"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "SI = PRT/100 = 1000\u00d710\u00d72/100 = \u20b9200",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_100",
+    "questionText": "A car travels 120 km in 3 hours. What is its speed?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "50 km/h",
+      "60 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Speed = Distance/Time = 120/3 = 40 km/h",
     "category": "Quantitative Aptitude",
     "difficulty": "easy"
   },
@@ -569,7 +2809,7 @@
       "Acomodate"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Correct spelling: Accommodate",
+    "explanation": "Correct spelling: Accommodate.",
     "category": "English",
     "difficulty": "easy"
   },
@@ -583,7 +2823,7 @@
       "Tired"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Synonym of happy is joyful.",
+    "explanation": "Synonym: Joyful.",
     "category": "English",
     "difficulty": "easy"
   },
@@ -597,13 +2837,13 @@
       "Speedy"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Opposite of fast is slow.",
+    "explanation": "Antonym: Slow.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_004",
-    "questionText": "Choose the correct word: He ___ playing football.",
+    "questionText": "He ___ playing football.",
     "options": [
       "is",
       "are",
@@ -617,7 +2857,7 @@
   },
   {
     "id": "eng_005",
-    "questionText": "Choose the correct article: ___ apple a day keeps the doctor away.",
+    "questionText": "___ apple a day keeps the doctor away.",
     "options": [
       "A",
       "An",
@@ -625,13 +2865,13 @@
       "No article"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "An apple a day...",
+    "explanation": "An apple...",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_006",
-    "questionText": "Fill in the blank: She has ___ dog.",
+    "questionText": "She has ___ dog.",
     "options": [
       "a",
       "an",
@@ -645,7 +2885,7 @@
   },
   {
     "id": "eng_007",
-    "questionText": "Find the plural of 'Child':",
+    "questionText": "Plural of 'Child' is:",
     "options": [
       "Childs",
       "Children",
@@ -653,13 +2893,13 @@
       "Childrens"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Plural is children.",
+    "explanation": "Children.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_008",
-    "questionText": "Change to past tense: 'Go'",
+    "questionText": "Past tense of 'Go':",
     "options": [
       "Gone",
       "Went",
@@ -667,13 +2907,13 @@
       "Going"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Past tense is went.",
+    "explanation": "Went.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_009",
-    "questionText": "Find the synonym of 'Beautiful':",
+    "questionText": "Synonym of 'Beautiful':",
     "options": [
       "Ugly",
       "Pretty",
@@ -681,13 +2921,13 @@
       "Plain"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Synonym is pretty.",
+    "explanation": "Pretty.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_010",
-    "questionText": "Choose the correct preposition: He is fond ___ music.",
+    "questionText": "He is fond ___ music.",
     "options": [
       "at",
       "of",
@@ -695,7 +2935,7 @@
       "for"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "He is fond of music.",
+    "explanation": "Fond of.",
     "category": "English",
     "difficulty": "easy"
   },
@@ -709,13 +2949,13 @@
       "the"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Blue is the adjective.",
+    "explanation": "Blue.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_012",
-    "questionText": "Find the antonym of 'Rich':",
+    "questionText": "Antonym of 'Rich':",
     "options": [
       "Wealthy",
       "Poor",
@@ -723,13 +2963,13 @@
       "Kind"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Opposite of rich is poor.",
+    "explanation": "Poor.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_013",
-    "questionText": "Choose the correct form: She ___ to school daily.",
+    "questionText": "She ___ to school daily.",
     "options": [
       "go",
       "goes",
@@ -737,7 +2977,7 @@
       "gone"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "She goes to school.",
+    "explanation": "Goes.",
     "category": "English",
     "difficulty": "easy"
   },
@@ -751,7 +2991,7 @@
       "He going to school."
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Correct: He goes to school.",
+    "explanation": "He goes to school.",
     "category": "English",
     "difficulty": "easy"
   },
@@ -765,13 +3005,13 @@
       "Slowly"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Happiness is a noun.",
+    "explanation": "Happiness.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_016",
-    "questionText": "Choose correct spelling:",
+    "questionText": "Correct spelling:",
     "options": [
       "Recieve",
       "Receive",
@@ -779,13 +3019,13 @@
       "Receve"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Correct spelling is receive.",
+    "explanation": "Receive.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_017",
-    "questionText": "Choose the correct word: Their/There going home.",
+    "questionText": "Correct word: Their/There/They're going home.",
     "options": [
       "Their",
       "There",
@@ -793,13 +3033,13 @@
       "They are"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Correct: They're going home.",
+    "explanation": "They're.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_018",
-    "questionText": "Find the plural of 'Mouse':",
+    "questionText": "Plural of 'Mouse':",
     "options": [
       "Mouses",
       "Mouse",
@@ -807,13 +3047,13 @@
       "Meese"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Plural is mice.",
+    "explanation": "Mice.",
     "category": "English",
     "difficulty": "easy"
   },
   {
     "id": "eng_019",
-    "questionText": "Choose correct word: It ___ raining.",
+    "questionText": "It ___ raining.",
     "options": [
       "is",
       "are",
@@ -827,7 +3067,7 @@
   },
   {
     "id": "eng_020",
-    "questionText": "Find the antonym of 'Clean':",
+    "questionText": "Antonym of 'Clean':",
     "options": [
       "Dirty",
       "Clear",
@@ -835,7 +3075,1127 @@
       "Neat"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Opposite of clean is dirty.",
+    "explanation": "Dirty.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_021",
+    "questionText": "Choose the synonym of 'Brave':",
+    "options": [
+      "Courageous",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Brave is Courageous.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_022",
+    "questionText": "Choose the synonym of 'Big':",
+    "options": [
+      "Large",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Big is Large.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_023",
+    "questionText": "Choose the synonym of 'Small':",
+    "options": [
+      "Tiny",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Small is Tiny.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_024",
+    "questionText": "Choose the synonym of 'Quick':",
+    "options": [
+      "Rapid",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Quick is Rapid.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_025",
+    "questionText": "Choose the synonym of 'Smart':",
+    "options": [
+      "Intelligent",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Smart is Intelligent.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_026",
+    "questionText": "Choose the synonym of 'Angry':",
+    "options": [
+      "Furious",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Angry is Furious.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_027",
+    "questionText": "Choose the synonym of 'Cold':",
+    "options": [
+      "Chilly",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Cold is Chilly.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_028",
+    "questionText": "Choose the synonym of 'Begin':",
+    "options": [
+      "Start",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Begin is Start.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_029",
+    "questionText": "Choose the synonym of 'End':",
+    "options": [
+      "Finish",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of End is Finish.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_030",
+    "questionText": "Choose the synonym of 'Help':",
+    "options": [
+      "Assist",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Help is Assist.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_031",
+    "questionText": "Choose the synonym of 'Ask':",
+    "options": [
+      "Inquire",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Ask is Inquire.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_032",
+    "questionText": "Choose the synonym of 'Buy':",
+    "options": [
+      "Purchase",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Buy is Purchase.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_033",
+    "questionText": "Choose the synonym of 'Laugh':",
+    "options": [
+      "Giggle",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Laugh is Giggle.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_034",
+    "questionText": "Choose the synonym of 'Sad':",
+    "options": [
+      "Unhappy",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Sad is Unhappy.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_035",
+    "questionText": "Choose the synonym of 'Strong':",
+    "options": [
+      "Powerful",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Strong is Powerful.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_036",
+    "questionText": "Choose the synonym of 'Weak':",
+    "options": [
+      "Feeble",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Weak is Feeble.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_037",
+    "questionText": "Choose the synonym of 'Teach':",
+    "options": [
+      "Instruct",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Teach is Instruct.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_038",
+    "questionText": "Choose the synonym of 'Tell':",
+    "options": [
+      "Inform",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Tell is Inform.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_039",
+    "questionText": "Choose the synonym of 'Lazy':",
+    "options": [
+      "Idle",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Lazy is Idle.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_040",
+    "questionText": "Choose the synonym of 'Honest':",
+    "options": [
+      "Truthful",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Honest is Truthful.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_041",
+    "questionText": "Choose the synonym of 'Lie':",
+    "options": [
+      "Falsehood",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Lie is Falsehood.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_042",
+    "questionText": "Choose the synonym of 'Fear':",
+    "options": [
+      "Terror",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Fear is Terror.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_043",
+    "questionText": "Choose the synonym of 'Happy':",
+    "options": [
+      "Glad",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Happy is Glad.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_044",
+    "questionText": "Choose the synonym of 'Calm':",
+    "options": [
+      "Peaceful",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Calm is Peaceful.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_045",
+    "questionText": "Choose the synonym of 'Quiet':",
+    "options": [
+      "Silent",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Quiet is Silent.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_046",
+    "questionText": "Choose the synonym of 'Bright':",
+    "options": [
+      "Luminous",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Bright is Luminous.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_047",
+    "questionText": "Choose the synonym of 'Dark':",
+    "options": [
+      "Dim",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Dark is Dim.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_048",
+    "questionText": "Choose the synonym of 'Neat':",
+    "options": [
+      "Tidy",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Neat is Tidy.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_049",
+    "questionText": "Choose the synonym of 'Rich':",
+    "options": [
+      "Wealthy",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Rich is Wealthy.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_050",
+    "questionText": "Choose the synonym of 'Poor':",
+    "options": [
+      "Destitute",
+      "Opposite",
+      "Unrelated",
+      "Similar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Synonym of Poor is Destitute.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_051",
+    "questionText": "Choose the antonym of 'Hot':",
+    "options": [
+      "Cold",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Hot is Cold.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_052",
+    "questionText": "Choose the antonym of 'Light':",
+    "options": [
+      "Dark",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Light is Dark.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_053",
+    "questionText": "Choose the antonym of 'Up':",
+    "options": [
+      "Down",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Up is Down.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_054",
+    "questionText": "Choose the antonym of 'In':",
+    "options": [
+      "Out",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of In is Out.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_055",
+    "questionText": "Choose the antonym of 'Win':",
+    "options": [
+      "Lose",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Win is Lose.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_056",
+    "questionText": "Choose the antonym of 'Love':",
+    "options": [
+      "Hate",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Love is Hate.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_057",
+    "questionText": "Choose the antonym of 'Give':",
+    "options": [
+      "Take",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Give is Take.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_058",
+    "questionText": "Choose the antonym of 'Early':",
+    "options": [
+      "Late",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Early is Late.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_059",
+    "questionText": "Choose the antonym of 'Young':",
+    "options": [
+      "Old",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Young is Old.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_060",
+    "questionText": "Choose the antonym of 'High':",
+    "options": [
+      "Low",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of High is Low.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_061",
+    "questionText": "Choose the antonym of 'Full':",
+    "options": [
+      "Empty",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Full is Empty.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_062",
+    "questionText": "Choose the antonym of 'Open':",
+    "options": [
+      "Close",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Open is Close.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_063",
+    "questionText": "Choose the antonym of 'Start':",
+    "options": [
+      "Stop",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Start is Stop.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_064",
+    "questionText": "Choose the antonym of 'Strong':",
+    "options": [
+      "Weak",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Strong is Weak.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_065",
+    "questionText": "Choose the antonym of 'Success':",
+    "options": [
+      "Failure",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Success is Failure.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_066",
+    "questionText": "Choose the antonym of 'Accept':",
+    "options": [
+      "Reject",
+      "Same",
+      "Similar",
+      "Related"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Antonym of Accept is Reject.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_067",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_068",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_069",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_070",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_071",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_072",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_073",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_074",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_075",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_076",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_077",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_078",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_079",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_080",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_081",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_082",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_083",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_084",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_085",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_086",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_087",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_088",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_089",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_090",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_091",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_092",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_093",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_094",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_095",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_096",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_097",
+    "questionText": "He ___ a book now.",
+    "options": [
+      "reads",
+      "is reading",
+      "read",
+      "reading"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Present continuous: is reading.",
+    "category": "English",
+    "difficulty": "medium"
+  },
+  {
+    "id": "eng_098",
+    "questionText": "They ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Simple present plural: go.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_099",
+    "questionText": "She has ___ umbrella.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "'Umbrella' sounds like vowel: an.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_100",
+    "questionText": "Choose the correct preposition: She is good ___ math.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Good at.",
     "category": "English",
     "difficulty": "easy"
   },
@@ -863,13 +4223,13 @@
       "9"
     ],
     "correctAnswerIndex": 3,
-    "explanation": "9 is odd, others are even.",
+    "explanation": "9 is odd; others are even.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "reason_003",
-    "questionText": "Find the next number: 1, 4, 9, 16, ?",
+    "questionText": "Next: 1, 4, 9, 16, ?",
     "options": [
       "20",
       "25",
@@ -877,13 +4237,13 @@
       "36"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Pattern: squares \u2192 25",
+    "explanation": "Squares \u2192 25.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "reason_004",
-    "questionText": "In a code, CAT = DBU, then DOG = ?",
+    "questionText": "In a code, CAT = DBU; DOG = ?",
     "options": [
       "EHP",
       "EPH",
@@ -891,13 +4251,13 @@
       "FPI"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Each letter +1 \u2192 DOG\u2192EHP",
+    "explanation": "Each letter +1.",
     "category": "Reasoning",
     "difficulty": "medium"
   },
   {
     "id": "reason_005",
-    "questionText": "Which is different: Apple, Mango, Carrot, Banana",
+    "questionText": "Odd one: Apple, Mango, Carrot, Banana",
     "options": [
       "Apple",
       "Mango",
@@ -907,11 +4267,11 @@
     "correctAnswerIndex": 2,
     "explanation": "Carrot is a vegetable.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "reason_006",
-    "questionText": "A is B\u2019s mother\u2019s brother. How is A related to B?",
+    "questionText": "A is B\u2019s mother\u2019s brother. A is B\u2019s ___?",
     "options": [
       "Father",
       "Uncle",
@@ -919,27 +4279,13 @@
       "Brother"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "A is uncle of B.",
+    "explanation": "Uncle.",
     "category": "Reasoning",
     "difficulty": "medium"
   },
   {
     "id": "reason_007",
-    "questionText": "If 5\u00d73=28, 6\u00d72=26, 7\u00d71=24, then 8\u00d70=?",
-    "options": [
-      "20",
-      "22",
-      "18",
-      "16"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Pattern: (a\u00d7b)+13.",
-    "category": "Reasoning",
-    "difficulty": "medium"
-  },
-  {
-    "id": "reason_008",
-    "questionText": "Find missing: A, C, E, G, ?",
+    "questionText": "Missing letters: A, C, E, G, ?",
     "options": [
       "H",
       "I",
@@ -947,13 +4293,13 @@
       "K"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "Skipping one letter each \u2192 J",
+    "explanation": "Skip one letter each \u2192 J.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
-    "id": "reason_009",
-    "questionText": "Choose odd one: Circle, Square, Triangle, Cone",
+    "id": "reason_008",
+    "questionText": "Odd one: Circle, Square, Triangle, Cone",
     "options": [
       "Circle",
       "Square",
@@ -963,10 +4309,10 @@
     "correctAnswerIndex": 3,
     "explanation": "Cone is 3D.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
-    "id": "reason_010",
+    "id": "reason_009",
     "questionText": "Which number is different: 11, 13, 15, 17",
     "options": [
       "11",
@@ -977,67 +4323,11 @@
     "correctAnswerIndex": 2,
     "explanation": "15 is not prime.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
-    "id": "reason_011",
-    "questionText": "If 1 = 3, 2 = 6, 3 = 9, then 4 = ?",
-    "options": [
-      "12",
-      "15",
-      "18",
-      "21"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "\u00d73 pattern \u2192 4\u00d73=12",
-    "category": "Reasoning",
-    "difficulty": "medium"
-  },
-  {
-    "id": "reason_012",
-    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ?",
-    "options": [
-      "Thursday",
-      "Friday",
-      "Sunday",
-      "Monday"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Next is Thursday.",
-    "category": "Reasoning",
-    "difficulty": "medium"
-  },
-  {
-    "id": "reason_013",
-    "questionText": "Complete: 2, 6, 12, 20, ?",
-    "options": [
-      "28",
-      "30",
-      "32",
-      "36"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Add +4, +6, +8 \u2192 +10 = 30",
-    "category": "Reasoning",
-    "difficulty": "medium"
-  },
-  {
-    "id": "reason_014",
-    "questionText": "If 8=64, 6=36, 9=81, then 10=?",
-    "options": [
-      "90",
-      "100",
-      "110",
-      "120"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "10\u00b2 = 100",
-    "category": "Reasoning",
-    "difficulty": "medium"
-  },
-  {
-    "id": "reason_015",
-    "questionText": "Choose the correct pair: Book: Reading :: Pen: ?",
+    "id": "reason_010",
+    "questionText": "Book : Reading :: Pen : ___",
     "options": [
       "Write",
       "Ink",
@@ -1045,49 +4335,119 @@
       "Paper"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Book\u2192Reading; Pen\u2192Writing",
+    "explanation": "Pen is used for writing.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_011",
+    "questionText": "Complete: 2, 6, 12, 20, ?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "+4,+6,+8 \u2192 +10=30",
     "category": "Reasoning",
     "difficulty": "medium"
   },
   {
-    "id": "reason_016",
-    "questionText": "Find missing letter: A, C, F, J, ?",
+    "id": "reason_012",
+    "questionText": "Complete: 3, 9, 27, ?",
     "options": [
-      "O",
-      "P",
-      "Q",
-      "R"
+      "36",
+      "54",
+      "81",
+      "72"
     ],
-    "correctAnswerIndex": 1,
-    "explanation": "Add +2,+3,+4,+5 \u2192 P",
+    "correctAnswerIndex": 2,
+    "explanation": "\u00d73 pattern \u2192 81",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_013",
+    "questionText": "Complete: 5, 10, 17, 26, ?",
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "+5,+7,+9 \u2192 +11=37",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_014",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_015",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_016",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
     "category": "Reasoning",
     "difficulty": "medium"
   },
   {
     "id": "reason_017",
-    "questionText": "Which number completes: 3, 6, 12, 24, ?",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
     "options": [
-      "36",
-      "42",
-      "48",
-      "52"
+      "12",
+      "15",
+      "18",
+      "21"
     ],
-    "correctAnswerIndex": 2,
-    "explanation": "\u00d72 pattern \u2192 48",
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "reason_018",
-    "questionText": "If 9 + 6 = 45, 8 + 4 = 32, then 7 + 3 = ?",
+    "questionText": "Find missing letter: A, C, F, J, ?",
     "options": [
-      "20",
-      "21",
-      "22",
-      "24"
+      "N",
+      "O",
+      "P",
+      "Q"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "\u00d74 pattern \u2192 7\u00d73=21",
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
     "category": "Reasoning",
     "difficulty": "medium"
   },
@@ -1103,39 +4463,1145 @@
     "correctAnswerIndex": 3,
     "explanation": "Table is furniture.",
     "category": "Reasoning",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "reason_020",
-    "questionText": "Find mirror image of 2.",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
     "options": [
-      "2",
-      "5",
-      "S",
-      "Z"
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
     ],
-    "correctAnswerIndex": 3,
-    "explanation": "Mirror of 2 looks like Z.",
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_021",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
     "category": "Reasoning",
     "difficulty": "medium"
   },
   {
-    "id": "ca_001",
-    "questionText": "Who is the current Prime Minister of India (2025)?",
+    "id": "reason_022",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
     "options": [
-      "Narendra Modi",
-      "Rahul Gandhi",
-      "Amit Shah",
-      "Arvind Kejriwal"
+      "12",
+      "15",
+      "18",
+      "21"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Narendra Modi is the PM of India.",
-    "category": "Current Affairs",
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_023",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
     "difficulty": "medium"
   },
   {
-    "id": "ca_002",
-    "questionText": "Which country hosted the 2024 Olympic Games?",
+    "id": "reason_024",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_025",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_026",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_027",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_028",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_029",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_030",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_031",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_032",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_033",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_034",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_035",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_036",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_037",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_038",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_039",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_040",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_041",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_042",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_043",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_044",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_045",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_046",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_047",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_048",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_049",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_050",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_051",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_052",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_053",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_054",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_055",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_056",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_057",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_058",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_059",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_060",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_061",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_062",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_063",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_064",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_065",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_066",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_067",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_068",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_069",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_070",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_071",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_072",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_073",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_074",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_075",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_076",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_077",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_078",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_079",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_080",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_081",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_082",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_083",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_084",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_085",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_086",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_087",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_088",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_089",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_090",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_091",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_092",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_093",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_094",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_095",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_096",
+    "questionText": "A man walks 5 km east, then 5 km north. How far is he from the start?",
+    "options": [
+      "5 km",
+      "10 km",
+      "\u221a50 km",
+      "15 km"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Distance = \u221a(5\u00b2+5\u00b2)=\u221a50 km.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_097",
+    "questionText": "If 1=3, 2=6, 3=9, then 4=?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern \u00d73 \u2192 12.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_098",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "N",
+      "O",
+      "P",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "J(+5) \u2192 +6 = P.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_099",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_100",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ___",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Thursday.",
+    "category": "Reasoning",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_001",
+    "questionText": "Which country hosted the 2024 Summer Olympics?",
     "options": [
       "Japan",
       "France",
@@ -1143,27 +5609,83 @@
       "China"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Paris, France hosted 2024 Olympics.",
+    "explanation": "Paris, France hosted the 2024 Olympics.",
     "category": "Current Affairs",
     "difficulty": "medium"
   },
   {
-    "id": "ca_003",
-    "questionText": "Which Indian state launched the 'Mission Buniyaad' program?",
+    "id": "ca_002",
+    "questionText": "Who won the FIFA World Cup 2022?",
     "options": [
-      "Delhi",
-      "Uttar Pradesh",
-      "Madhya Pradesh",
-      "Haryana"
+      "France",
+      "Argentina",
+      "Brazil",
+      "Croatia"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Delhi government launched it.",
+    "correctAnswerIndex": 1,
+    "explanation": "Argentina won the 2022 FIFA World Cup.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_003",
+    "questionText": "India's lunar mission that achieved a soft landing in 2023:",
+    "options": [
+      "Chandrayaan-1",
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Mangalyaan"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Chandrayaan-3 landed near the lunar south pole in 2023.",
     "category": "Current Affairs",
     "difficulty": "medium"
   },
   {
     "id": "ca_004",
-    "questionText": "Who won the 2024 ICC T20 World Cup?",
+    "questionText": "What is the name of India's solar observatory mission launched in 2023?",
+    "options": [
+      "Aditya-L1",
+      "Surya-1",
+      "Helios-India",
+      "Solaris"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Aditya-L1 studies the Sun from L1 point.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_005",
+    "questionText": "Which nation hosted the G20 Summit in September 2023?",
+    "options": [
+      "India",
+      "Japan",
+      "USA",
+      "UK"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "New Delhi, India hosted G20 in 2023.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_006",
+    "questionText": "Which team won the ICC Men's Cricket World Cup 2023?",
+    "options": [
+      "India",
+      "Australia",
+      "England",
+      "New Zealand"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Australia defeated India in the 2023 final.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_007",
+    "questionText": "Which team won the ICC Men's T20 World Cup 2024?",
     "options": [
       "India",
       "Australia",
@@ -1176,190 +5698,50 @@
     "difficulty": "medium"
   },
   {
-    "id": "ca_005",
-    "questionText": "Which company became India\u2019s first $4 trillion market cap company?",
-    "options": [
-      "Reliance",
-      "TCS",
-      "Infosys",
-      "HDFC Bank"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Reliance achieved this milestone.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_006",
-    "questionText": "Which planet did NASA\u2019s 2024 mission aim to explore?",
-    "options": [
-      "Mars",
-      "Venus",
-      "Jupiter",
-      "Saturn"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "NASA\u2019s DAVINCI+ targets Venus.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_007",
-    "questionText": "Who is the current President of the USA (2025)?",
-    "options": [
-      "Joe Biden",
-      "Donald Trump",
-      "Kamala Harris",
-      "Barack Obama"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Donald Trump (as of 2025).",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
     "id": "ca_008",
-    "questionText": "Which Indian city topped the Smart City Index 2024?",
+    "questionText": "The EU's comprehensive AI regulation passed in 2024 is called:",
     "options": [
-      "Surat",
-      "Pune",
-      "Indore",
-      "Ahmedabad"
+      "AI Rules",
+      "EU AI Act",
+      "Digital AI Law",
+      "AI Charter"
     ],
-    "correctAnswerIndex": 2,
-    "explanation": "Indore ranked 1st.",
+    "correctAnswerIndex": 1,
+    "explanation": "It's known as the EU AI Act.",
     "category": "Current Affairs",
     "difficulty": "medium"
   },
   {
     "id": "ca_009",
-    "questionText": "Which country won the FIFA World Cup 2022?",
+    "questionText": "The Indian mission to study the Sun was placed at which point?",
     "options": [
-      "France",
-      "Argentina",
-      "Brazil",
-      "Croatia"
+      "L2",
+      "L1",
+      "GEO",
+      "LEO"
     ],
     "correctAnswerIndex": 1,
-    "explanation": "Argentina won FIFA 2022.",
+    "explanation": "Aditya-L1 orbits around the Sun\u2013Earth L1 point.",
     "category": "Current Affairs",
     "difficulty": "medium"
   },
   {
     "id": "ca_010",
-    "questionText": "Which film won the Best Picture at Oscars 2024?",
+    "questionText": "Which film won Best Picture at the Oscars 2024?",
     "options": [
       "Oppenheimer",
       "Barbie",
-      "Killers of the Flower Moon",
-      "Poor Things"
+      "Poor Things",
+      "The Zone of Interest"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Oppenheimer won Best Picture.",
+    "explanation": "Oppenheimer won Best Picture in 2024.",
     "category": "Current Affairs",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "ca_011",
-    "questionText": "Who is the CEO of OpenAI (2025)?",
-    "options": [
-      "Sam Altman",
-      "Elon Musk",
-      "Satya Nadella",
-      "Sundar Pichai"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Sam Altman is the CEO of OpenAI.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_012",
-    "questionText": "Which Indian mission explored the Sun?",
-    "options": [
-      "Chandrayaan-3",
-      "Aditya-L1",
-      "Mangalyaan",
-      "Surya Mission"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Aditya-L1 studies the Sun.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_013",
-    "questionText": "Which country launched the world's first AI law?",
-    "options": [
-      "India",
-      "USA",
-      "EU",
-      "China"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "EU launched the first AI Act.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_014",
-    "questionText": "Which Indian city hosted G20 Summit 2023?",
-    "options": [
-      "Delhi",
-      "Mumbai",
-      "Hyderabad",
-      "Chennai"
-    ],
-    "correctAnswerIndex": 0,
-    "explanation": "Delhi hosted the G20 Summit.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_015",
-    "questionText": "Which Indian received Nobel Prize 2023?",
-    "options": [
-      "Abhijit Banerjee",
-      "Venki Ramakrishnan",
-      "C.N.R. Rao",
-      "No Indian"
-    ],
-    "correctAnswerIndex": 3,
-    "explanation": "No Indian received Nobel 2023.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_016",
-    "questionText": "Which company launched ChatGPT?",
-    "options": [
-      "Google",
-      "Meta",
-      "OpenAI",
-      "Amazon"
-    ],
-    "correctAnswerIndex": 2,
-    "explanation": "ChatGPT was developed by OpenAI.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_017",
-    "questionText": "Which state launched 'Mukhyamantri Ladli Behna Yojana'?",
-    "options": [
-      "UP",
-      "MP",
-      "Bihar",
-      "Gujarat"
-    ],
-    "correctAnswerIndex": 1,
-    "explanation": "Madhya Pradesh launched it.",
-    "category": "Current Affairs",
-    "difficulty": "medium"
-  },
-  {
-    "id": "ca_018",
-    "questionText": "Which country won Asia Cup 2023?",
+    "questionText": "Which country won the Asia Cup 2023 (cricket)?",
     "options": [
       "Pakistan",
       "Sri Lanka",
@@ -1367,35 +5749,1253 @@
       "Bangladesh"
     ],
     "correctAnswerIndex": 2,
-    "explanation": "India won Asia Cup 2023.",
+    "explanation": "India won the 2023 Asia Cup.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_012",
+    "questionText": "Which city is often ranked India's cleanest (2023)?",
+    "options": [
+      "Indore",
+      "Surat",
+      "Pune",
+      "Bhopal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Indore frequently tops cleanliness rankings.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_013",
+    "questionText": "What is the name of the Indian digital payment system widely used for UPI?",
+    "options": [
+      "BHIM",
+      "NEFT",
+      "RTGS",
+      "IMPS"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "BHIM app popularized UPI.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_014",
+    "questionText": "Which Indian scheme focuses on health insurance up to \u20b95 lakh?",
+    "options": [
+      "PM-KISAN",
+      "Ayushman Bharat",
+      "MNREGA",
+      "UDAN"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Ayushman Bharat (PM-JAY).",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_015",
+    "questionText": "Which Indian space agency manages Chandrayaan missions?",
+    "options": [
+      "NASA",
+      "ESA",
+      "JAXA",
+      "ISRO"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "ISRO runs India's space missions.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_016",
+    "questionText": "Which city hosted the COP28 climate summit (2023)?",
+    "options": [
+      "Dubai",
+      "Glasgow",
+      "Madrid",
+      "Katowice"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "COP28 took place in Dubai, UAE.",
     "category": "Current Affairs",
     "difficulty": "medium"
+  },
+  {
+    "id": "ca_017",
+    "questionText": "Which country's currency is the 'Yuan'?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "China uses the Renminbi (Yuan).",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_018",
+    "questionText": "Which company makes the iPhone?",
+    "options": [
+      "Google",
+      "Samsung",
+      "Apple",
+      "Microsoft"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Apple Inc.",
+    "category": "Current Affairs",
+    "difficulty": "easy"
   },
   {
     "id": "ca_019",
-    "questionText": "Which is India\u2019s fastest train as of 2025?",
+    "questionText": "Which Indian mission explored Mars in 2013-14?",
     "options": [
-      "Vande Bharat Express",
-      "Rajdhani",
-      "Shatabdi",
-      "Duronto"
+      "Chandrayaan-1",
+      "Mangalyaan (MOM)",
+      "Voyager",
+      "Gaganyaan"
     ],
-    "correctAnswerIndex": 0,
-    "explanation": "Vande Bharat Express is fastest.",
+    "correctAnswerIndex": 1,
+    "explanation": "Mars Orbiter Mission (Mangalyaan).",
+    "category": "Current Affairs",
+    "difficulty": "easy"
+  },
+  {
+    "id": "ca_020",
+    "questionText": "Which sector does 'ONDC' in India relate to?",
+    "options": [
+      "Defense",
+      "E-commerce",
+      "Healthcare",
+      "Education"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Open Network for Digital Commerce.",
     "category": "Current Affairs",
     "difficulty": "medium"
   },
   {
-    "id": "ca_020",
-    "questionText": "Who is the current Chief Justice of India (2025)?",
+    "id": "ca_021",
+    "questionText": "Who is the Prime Minister of India as of 2024?",
     "options": [
-      "DY Chandrachud",
-      "N.V. Ramana",
-      "UU Lalit",
-      "Arun Mishra"
+      "Narendra Modi",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Arvind Kejriwal"
     ],
     "correctAnswerIndex": 0,
-    "explanation": "Justice DY Chandrachud is the CJI.",
+    "explanation": "As of 2024, the PM is Narendra Modi.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_022",
+    "questionText": "Which city hosted the 2023 Cricket World Cup final?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Ahmedabad",
+      "Kolkata"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The final was held at Narendra Modi Stadium, Ahmedabad.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_023",
+    "questionText": "Which Indian mission aims for human spaceflight?",
+    "options": [
+      "Gaganyaan",
+      "NISAR",
+      "Shukrayaan",
+      "RISAT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gaganyaan is India's crewed mission program.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_024",
+    "questionText": "Which platform enables instant bank transfers in India?",
+    "options": [
+      "UPI",
+      "Western Union",
+      "SWIFT",
+      "PayPal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "UPI enables instant bank transfers.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_025",
+    "questionText": "Which Indian state is known for 'Double Engine' metro project?",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Karnataka"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "UP expanded metro networks (e.g., Lucknow, Kanpur).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_026",
+    "questionText": "Which Indian institution regulates the stock market?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SEBI regulates securities market.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_027",
+    "questionText": "Which vaccine was widely used in India for COVID-19?",
+    "options": [
+      "Covaxin",
+      "Sputnik V",
+      "Moderna",
+      "Janssen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Covaxin and Covishield were widely used; Covaxin is Indian-made.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_028",
+    "questionText": "Which Indian digital identity system is widely used?",
+    "options": [
+      "Aadhaar",
+      "PAN",
+      "Voter ID",
+      "DL"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Aadhaar.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_029",
+    "questionText": "Which Indian city is known as 'Financial Capital'?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mumbai.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_030",
+    "questionText": "Which Indian train brand is semi-high-speed?",
+    "options": [
+      "Rajdhani",
+      "Shatabdi",
+      "Duronto",
+      "Vande Bharat Express"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Vande Bharat Express.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_031",
+    "questionText": "What is the full form of GST?",
+    "options": [
+      "Goods and Services Tax",
+      "General Sales Tax",
+      "Government Service Tax",
+      "Goods and Service Tariff"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Goods and Services Tax.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_032",
+    "questionText": "Which country launched the 'EU AI Act'?",
+    "options": [
+      "USA",
+      "India",
+      "EU",
+      "UK"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "European Union.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_033",
+    "questionText": "Which tournament is the 'IPL' related to?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Indian Premier League (Cricket).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_034",
+    "questionText": "Which Indian river project is 'Namami Gange'?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Godavari",
+      "Narmada"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Clean Ganga mission.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_035",
+    "questionText": "Which organization manages electricity at the national grid level in India?",
+    "options": [
+      "ISRO",
+      "POSOCO/GRID-INDIA",
+      "NTPC",
+      "SECI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "GRID-INDIA (formerly POSOCO).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_036",
+    "questionText": "Which bank is India's central bank?",
+    "options": [
+      "SBI",
+      "RBI",
+      "HDFC",
+      "ICICI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reserve Bank of India.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_037",
+    "questionText": "Who presents the Union Budget of India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Finance Minister",
+      "Home Minister"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Finance Minister.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_038",
+    "questionText": "Which Indian award is the highest civilian honour?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Bharat Ratna.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_039",
+    "questionText": "Which Indian state leads in tea production?",
+    "options": [
+      "Assam",
+      "Kerala",
+      "Punjab",
+      "Bihar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Assam is a leading tea producer.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_040",
+    "questionText": "Which state is famous for 'Statue of Unity'?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "MP"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Kevadiya, Gujarat.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_041",
+    "questionText": "Who is the Prime Minister of India as of 2024?",
+    "options": [
+      "Narendra Modi",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Arvind Kejriwal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "As of 2024, the PM is Narendra Modi.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_042",
+    "questionText": "Which city hosted the 2023 Cricket World Cup final?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Ahmedabad",
+      "Kolkata"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The final was held at Narendra Modi Stadium, Ahmedabad.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_043",
+    "questionText": "Which Indian mission aims for human spaceflight?",
+    "options": [
+      "Gaganyaan",
+      "NISAR",
+      "Shukrayaan",
+      "RISAT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gaganyaan is India's crewed mission program.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_044",
+    "questionText": "Which platform enables instant bank transfers in India?",
+    "options": [
+      "UPI",
+      "Western Union",
+      "SWIFT",
+      "PayPal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "UPI enables instant bank transfers.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_045",
+    "questionText": "Which Indian state is known for 'Double Engine' metro project?",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Karnataka"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "UP expanded metro networks (e.g., Lucknow, Kanpur).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_046",
+    "questionText": "Which Indian institution regulates the stock market?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SEBI regulates securities market.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_047",
+    "questionText": "Which vaccine was widely used in India for COVID-19?",
+    "options": [
+      "Covaxin",
+      "Sputnik V",
+      "Moderna",
+      "Janssen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Covaxin and Covishield were widely used; Covaxin is Indian-made.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_048",
+    "questionText": "Which Indian digital identity system is widely used?",
+    "options": [
+      "Aadhaar",
+      "PAN",
+      "Voter ID",
+      "DL"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Aadhaar.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_049",
+    "questionText": "Which Indian city is known as 'Financial Capital'?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mumbai.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_050",
+    "questionText": "Which Indian train brand is semi-high-speed?",
+    "options": [
+      "Rajdhani",
+      "Shatabdi",
+      "Duronto",
+      "Vande Bharat Express"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Vande Bharat Express.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_051",
+    "questionText": "What is the full form of GST?",
+    "options": [
+      "Goods and Services Tax",
+      "General Sales Tax",
+      "Government Service Tax",
+      "Goods and Service Tariff"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Goods and Services Tax.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_052",
+    "questionText": "Which country launched the 'EU AI Act'?",
+    "options": [
+      "USA",
+      "India",
+      "EU",
+      "UK"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "European Union.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_053",
+    "questionText": "Which tournament is the 'IPL' related to?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Indian Premier League (Cricket).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_054",
+    "questionText": "Which Indian river project is 'Namami Gange'?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Godavari",
+      "Narmada"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Clean Ganga mission.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_055",
+    "questionText": "Which organization manages electricity at the national grid level in India?",
+    "options": [
+      "ISRO",
+      "POSOCO/GRID-INDIA",
+      "NTPC",
+      "SECI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "GRID-INDIA (formerly POSOCO).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_056",
+    "questionText": "Which bank is India's central bank?",
+    "options": [
+      "SBI",
+      "RBI",
+      "HDFC",
+      "ICICI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reserve Bank of India.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_057",
+    "questionText": "Who presents the Union Budget of India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Finance Minister",
+      "Home Minister"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Finance Minister.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_058",
+    "questionText": "Which Indian award is the highest civilian honour?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Bharat Ratna.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_059",
+    "questionText": "Which Indian state leads in tea production?",
+    "options": [
+      "Assam",
+      "Kerala",
+      "Punjab",
+      "Bihar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Assam is a leading tea producer.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_060",
+    "questionText": "Which state is famous for 'Statue of Unity'?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "MP"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Kevadiya, Gujarat.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_061",
+    "questionText": "Who is the Prime Minister of India as of 2024?",
+    "options": [
+      "Narendra Modi",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Arvind Kejriwal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "As of 2024, the PM is Narendra Modi.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_062",
+    "questionText": "Which city hosted the 2023 Cricket World Cup final?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Ahmedabad",
+      "Kolkata"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The final was held at Narendra Modi Stadium, Ahmedabad.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_063",
+    "questionText": "Which Indian mission aims for human spaceflight?",
+    "options": [
+      "Gaganyaan",
+      "NISAR",
+      "Shukrayaan",
+      "RISAT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gaganyaan is India's crewed mission program.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_064",
+    "questionText": "Which platform enables instant bank transfers in India?",
+    "options": [
+      "UPI",
+      "Western Union",
+      "SWIFT",
+      "PayPal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "UPI enables instant bank transfers.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_065",
+    "questionText": "Which Indian state is known for 'Double Engine' metro project?",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Karnataka"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "UP expanded metro networks (e.g., Lucknow, Kanpur).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_066",
+    "questionText": "Which Indian institution regulates the stock market?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SEBI regulates securities market.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_067",
+    "questionText": "Which vaccine was widely used in India for COVID-19?",
+    "options": [
+      "Covaxin",
+      "Sputnik V",
+      "Moderna",
+      "Janssen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Covaxin and Covishield were widely used; Covaxin is Indian-made.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_068",
+    "questionText": "Which Indian digital identity system is widely used?",
+    "options": [
+      "Aadhaar",
+      "PAN",
+      "Voter ID",
+      "DL"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Aadhaar.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_069",
+    "questionText": "Which Indian city is known as 'Financial Capital'?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mumbai.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_070",
+    "questionText": "Which Indian train brand is semi-high-speed?",
+    "options": [
+      "Rajdhani",
+      "Shatabdi",
+      "Duronto",
+      "Vande Bharat Express"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Vande Bharat Express.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_071",
+    "questionText": "What is the full form of GST?",
+    "options": [
+      "Goods and Services Tax",
+      "General Sales Tax",
+      "Government Service Tax",
+      "Goods and Service Tariff"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Goods and Services Tax.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_072",
+    "questionText": "Which country launched the 'EU AI Act'?",
+    "options": [
+      "USA",
+      "India",
+      "EU",
+      "UK"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "European Union.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_073",
+    "questionText": "Which tournament is the 'IPL' related to?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Indian Premier League (Cricket).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_074",
+    "questionText": "Which Indian river project is 'Namami Gange'?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Godavari",
+      "Narmada"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Clean Ganga mission.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_075",
+    "questionText": "Which organization manages electricity at the national grid level in India?",
+    "options": [
+      "ISRO",
+      "POSOCO/GRID-INDIA",
+      "NTPC",
+      "SECI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "GRID-INDIA (formerly POSOCO).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_076",
+    "questionText": "Which bank is India's central bank?",
+    "options": [
+      "SBI",
+      "RBI",
+      "HDFC",
+      "ICICI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reserve Bank of India.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_077",
+    "questionText": "Who presents the Union Budget of India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Finance Minister",
+      "Home Minister"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Finance Minister.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_078",
+    "questionText": "Which Indian award is the highest civilian honour?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Bharat Ratna.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_079",
+    "questionText": "Which Indian state leads in tea production?",
+    "options": [
+      "Assam",
+      "Kerala",
+      "Punjab",
+      "Bihar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Assam is a leading tea producer.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_080",
+    "questionText": "Which state is famous for 'Statue of Unity'?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "MP"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Kevadiya, Gujarat.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_081",
+    "questionText": "Who is the Prime Minister of India as of 2024?",
+    "options": [
+      "Narendra Modi",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Arvind Kejriwal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "As of 2024, the PM is Narendra Modi.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_082",
+    "questionText": "Which city hosted the 2023 Cricket World Cup final?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Ahmedabad",
+      "Kolkata"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "The final was held at Narendra Modi Stadium, Ahmedabad.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_083",
+    "questionText": "Which Indian mission aims for human spaceflight?",
+    "options": [
+      "Gaganyaan",
+      "NISAR",
+      "Shukrayaan",
+      "RISAT"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Gaganyaan is India's crewed mission program.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_084",
+    "questionText": "Which platform enables instant bank transfers in India?",
+    "options": [
+      "UPI",
+      "Western Union",
+      "SWIFT",
+      "PayPal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "UPI enables instant bank transfers.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_085",
+    "questionText": "Which Indian state is known for 'Double Engine' metro project?",
+    "options": [
+      "Maharashtra",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Karnataka"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "UP expanded metro networks (e.g., Lucknow, Kanpur).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_086",
+    "questionText": "Which Indian institution regulates the stock market?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "SEBI regulates securities market.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_087",
+    "questionText": "Which vaccine was widely used in India for COVID-19?",
+    "options": [
+      "Covaxin",
+      "Sputnik V",
+      "Moderna",
+      "Janssen"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Covaxin and Covishield were widely used; Covaxin is Indian-made.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_088",
+    "questionText": "Which Indian digital identity system is widely used?",
+    "options": [
+      "Aadhaar",
+      "PAN",
+      "Voter ID",
+      "DL"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Aadhaar.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_089",
+    "questionText": "Which Indian city is known as 'Financial Capital'?",
+    "options": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Mumbai.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_090",
+    "questionText": "Which Indian train brand is semi-high-speed?",
+    "options": [
+      "Rajdhani",
+      "Shatabdi",
+      "Duronto",
+      "Vande Bharat Express"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Vande Bharat Express.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_091",
+    "questionText": "What is the full form of GST?",
+    "options": [
+      "Goods and Services Tax",
+      "General Sales Tax",
+      "Government Service Tax",
+      "Goods and Service Tariff"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Goods and Services Tax.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_092",
+    "questionText": "Which country launched the 'EU AI Act'?",
+    "options": [
+      "USA",
+      "India",
+      "EU",
+      "UK"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "European Union.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_093",
+    "questionText": "Which tournament is the 'IPL' related to?",
+    "options": [
+      "Football",
+      "Cricket",
+      "Hockey",
+      "Tennis"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Indian Premier League (Cricket).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_094",
+    "questionText": "Which Indian river project is 'Namami Gange'?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Godavari",
+      "Narmada"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Clean Ganga mission.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_095",
+    "questionText": "Which organization manages electricity at the national grid level in India?",
+    "options": [
+      "ISRO",
+      "POSOCO/GRID-INDIA",
+      "NTPC",
+      "SECI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "GRID-INDIA (formerly POSOCO).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_096",
+    "questionText": "Which bank is India's central bank?",
+    "options": [
+      "SBI",
+      "RBI",
+      "HDFC",
+      "ICICI"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Reserve Bank of India.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_097",
+    "questionText": "Who presents the Union Budget of India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Finance Minister",
+      "Home Minister"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Finance Minister.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_098",
+    "questionText": "Which Indian award is the highest civilian honour?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Bharat Ratna.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_099",
+    "questionText": "Which Indian state leads in tea production?",
+    "options": [
+      "Assam",
+      "Kerala",
+      "Punjab",
+      "Bihar"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Assam is a leading tea producer.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_100",
+    "questionText": "Which state is famous for 'Statue of Unity'?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "MP"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Located in Kevadiya, Gujarat.",
     "category": "Current Affairs",
     "difficulty": "medium"
   }
