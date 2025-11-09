@@ -2,17 +2,26 @@
   {
     "id": "gk_001",
     "questionText": "What is the capital of India?",
-    "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
     "correctAnswerIndex": 2,
     "explanation": "New Delhi is the capital of India.",
     "category": "General Knowledge",
-    "difficulty": "easy",
-    "tags": ["india", "capital"]
+    "difficulty": "easy"
   },
   {
     "id": "gk_002",
     "questionText": "Who wrote the Indian national anthem?",
-    "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Mahatma Gandhi", "Subhash Chandra Bose"],
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "Subhash Chandra Bose"
+    ],
     "correctAnswerIndex": 1,
     "explanation": "Rabindranath Tagore wrote 'Jana Gana Mana'.",
     "category": "General Knowledge",
@@ -21,133 +30,208 @@
   {
     "id": "gk_003",
     "questionText": "Which is the largest planet in our solar system?",
-    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Jupiter is the largest planet in the solar system.",
+    "explanation": "Jupiter is the largest planet.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_004",
     "questionText": "In which year did India gain independence?",
-    "options": ["1942", "1947", "1950", "1930"],
+    "options": [
+      "1942",
+      "1947",
+      "1950",
+      "1930"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "India became independent on August 15, 1947.",
+    "explanation": "India became independent in 1947.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_005",
     "questionText": "Which is the longest river in the world?",
-    "options": ["Amazon", "Nile", "Yangtze", "Ganga"],
+    "options": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Ganga"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "The Nile is considered the longest river in the world.",
+    "explanation": "The Nile is the longest river.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_006",
     "questionText": "Who was the first President of India?",
-    "options": ["Jawaharlal Nehru", "Rajendra Prasad", "Dr. Radhakrishnan", "V.V. Giri"],
+    "options": [
+      "Jawaharlal Nehru",
+      "Rajendra Prasad",
+      "Dr. Radhakrishnan",
+      "V.V. Giri"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Dr. Rajendra Prasad was the first President of India.",
+    "explanation": "Dr. Rajendra Prasad was the first President.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_007",
     "questionText": "Which Indian state has the largest area?",
-    "options": ["Uttar Pradesh", "Madhya Pradesh", "Maharashtra", "Rajasthan"],
+    "options": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan"
+    ],
     "correctAnswerIndex": 3,
-    "explanation": "Rajasthan is the largest state in India by area.",
+    "explanation": "Rajasthan is the largest state.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_008",
     "questionText": "What is the currency of Japan?",
-    "options": ["Yuan", "Yen", "Won", "Ringgit"],
+    "options": [
+      "Yuan",
+      "Yen",
+      "Won",
+      "Ringgit"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "The Japanese currency is Yen.",
+    "explanation": "The currency of Japan is Yen.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_009",
     "questionText": "Which country is known as the Land of the Rising Sun?",
-    "options": ["China", "Japan", "Thailand", "Vietnam"],
+    "options": [
+      "China",
+      "Japan",
+      "Thailand",
+      "Vietnam"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Japan is called the Land of the Rising Sun.",
+    "explanation": "Japan is known as the Land of the Rising Sun.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_010",
     "questionText": "Who discovered gravity?",
-    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Charles Darwin"],
+    "options": [
+      "Einstein",
+      "Newton",
+      "Galileo",
+      "Darwin"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Sir Isaac Newton discovered gravity when an apple fell from a tree.",
+    "explanation": "Isaac Newton discovered gravity.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_011",
     "questionText": "Which planet is known as the Red Planet?",
-    "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+    "options": [
+      "Venus",
+      "Jupiter",
+      "Mars",
+      "Saturn"
+    ],
     "correctAnswerIndex": 2,
-    "explanation": "Mars appears red due to iron oxide on its surface.",
+    "explanation": "Mars appears red due to iron oxide.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_012",
     "questionText": "What is the national flower of India?",
-    "options": ["Rose", "Lily", "Lotus", "Sunflower"],
+    "options": [
+      "Rose",
+      "Lily",
+      "Lotus",
+      "Sunflower"
+    ],
     "correctAnswerIndex": 2,
-    "explanation": "The national flower of India is the Lotus.",
+    "explanation": "The national flower is Lotus.",
     "category": "General Knowledge",
     "difficulty": "easy"
   },
   {
     "id": "gk_013",
     "questionText": "Which organ purifies our blood?",
-    "options": ["Heart", "Liver", "Kidney", "Lungs"],
+    "options": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lungs"
+    ],
     "correctAnswerIndex": 2,
-    "explanation": "Kidneys purify blood by removing waste products.",
+    "explanation": "Kidneys purify blood.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_014",
     "questionText": "Who was known as the Iron Man of India?",
-    "options": ["Subhash Chandra Bose", "Sardar Vallabhbhai Patel", "Bhagat Singh", "Mahatma Gandhi"],
+    "options": [
+      "Subhash Bose",
+      "Sardar Patel",
+      "Bhagat Singh",
+      "Gandhi"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Sardar Vallabhbhai Patel was called the Iron Man of India.",
+    "explanation": "Sardar Patel was called Iron Man.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_015",
     "questionText": "What is the largest ocean in the world?",
-    "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "options": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
     "correctAnswerIndex": 2,
-    "explanation": "The Pacific Ocean is the largest and deepest ocean.",
+    "explanation": "The Pacific Ocean is the largest.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_016",
     "questionText": "Which country gifted the Statue of Liberty to the USA?",
-    "options": ["Germany", "France", "Spain", "Italy"],
+    "options": [
+      "Germany",
+      "France",
+      "Spain",
+      "Italy"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "France gifted the Statue of Liberty to the USA in 1886.",
+    "explanation": "France gifted it to the USA.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_017",
     "questionText": "What is the chemical symbol for gold?",
-    "options": ["Gd", "Au", "Ag", "Go"],
+    "options": [
+      "Gd",
+      "Au",
+      "Ag",
+      "Go"
+    ],
     "correctAnswerIndex": 1,
     "explanation": "The chemical symbol for gold is Au.",
     "category": "General Knowledge",
@@ -156,30 +240,1163 @@
   {
     "id": "gk_018",
     "questionText": "Which gas is most abundant in Earth's atmosphere?",
-    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "options": [
+      "Oxygen",
+      "CO2",
+      "Nitrogen",
+      "Hydrogen"
+    ],
     "correctAnswerIndex": 2,
-    "explanation": "Nitrogen makes up about 78% of Earth's atmosphere.",
+    "explanation": "Nitrogen is most abundant.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_019",
     "questionText": "Who invented the telephone?",
-    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Michael Faraday"],
+    "options": [
+      "Edison",
+      "Bell",
+      "Tesla",
+      "Faraday"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Alexander Graham Bell invented the telephone in 1876.",
+    "explanation": "Alexander Graham Bell invented the telephone.",
     "category": "General Knowledge",
-    "difficulty": "medium"
+    "difficulty": "easy"
   },
   {
     "id": "gk_020",
     "questionText": "Which continent is known as the Dark Continent?",
-    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
     "correctAnswerIndex": 1,
-    "explanation": "Africa was historically called the Dark Continent due to its unexplored nature.",
+    "explanation": "Africa is known as the Dark Continent.",
     "category": "General Knowledge",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_001",
+    "questionText": "What is 15% of 200?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "45"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15% of 200 = (15/100)*200 = 30",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_002",
+    "questionText": "Simplify: 25 \u00d7 4 \u00f7 5",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "25\u00d74=100, 100\u00f75=20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_003",
+    "questionText": "Find the square root of 81.",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "\u221a81 = 9",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_004",
+    "questionText": "What is 12\u00b2?",
+    "options": [
+      "122",
+      "144",
+      "124",
+      "120"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "12\u00d712=144",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_005",
+    "questionText": "What is the value of \u03c0 (approx)?",
+    "options": [
+      "2.12",
+      "3.14",
+      "3.33",
+      "3.00"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "\u03c0 \u2248 3.14",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_006",
+    "questionText": "Convert 0.75 into a fraction.",
+    "options": [
+      "3/4",
+      "1/3",
+      "2/3",
+      "1/4"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "0.75 = 3/4",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_007",
+    "questionText": "Simplify: (5 + 3) \u00d7 2",
+    "options": [
+      "8",
+      "10",
+      "16",
+      "20"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "(5+3)=8, 8\u00d72=16",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_008",
+    "questionText": "Find the average of 10, 20, and 30.",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "(10+20+30)/3=20",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_009",
+    "questionText": "Find 20% of 250.",
+    "options": [
+      "25",
+      "30",
+      "40",
+      "50"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "20% of 250 = 50",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_010",
+    "questionText": "A train runs 60 km in 1 hour. What is its speed?",
+    "options": [
+      "30 km/h",
+      "40 km/h",
+      "60 km/h",
+      "80 km/h"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Speed = 60 km/h",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_011",
+    "questionText": "What is 3/5 of 100?",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3/5 \u00d7 100 = 60",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_012",
+    "questionText": "If cost price = 200 and selling price = 250, profit = ?",
+    "options": [
+      "20",
+      "25",
+      "50",
+      "40"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Profit = 250 - 200 = 50",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_013",
+    "questionText": "Simplify: 8 \u00d7 (3 + 2)",
+    "options": [
+      "32",
+      "40",
+      "45",
+      "50"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "8\u00d75=40",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_014",
+    "questionText": "What is the next number in series 2, 4, 8, 16, ?",
+    "options": [
+      "18",
+      "24",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Pattern: \u00d72 \u2192 next is 32",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_015",
+    "questionText": "Find the cube of 3.",
+    "options": [
+      "6",
+      "9",
+      "27",
+      "30"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "3\u00b3 = 27",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_016",
+    "questionText": "If 4x = 20, find x.",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "x = 20/4 = 5",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_017",
+    "questionText": "Simplify: 9 \u00d7 9",
+    "options": [
+      "81",
+      "72",
+      "99",
+      "91"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "9\u00d79=81",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_018",
+    "questionText": "A man walks 5 km east, then 5 km north. Total distance?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "8"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Total distance = 5 + 5 = 10 km",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_019",
+    "questionText": "What is \u00be of 200?",
+    "options": [
+      "100",
+      "120",
+      "150",
+      "180"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "\u00be \u00d7 200 = 150",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "quant_020",
+    "questionText": "If 5 pencils cost \u20b950, cost of one pencil = ?",
+    "options": [
+      "\u20b95",
+      "\u20b98",
+      "\u20b910",
+      "\u20b912"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "\u20b950 \u00f7 5 = \u20b910",
+    "category": "Quantitative Aptitude",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_001",
+    "questionText": "Choose the correct spelling:",
+    "options": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Correct spelling: Accommodate",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_002",
+    "questionText": "Find the synonym of 'Happy':",
+    "options": [
+      "Sad",
+      "Joyful",
+      "Angry",
+      "Tired"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Synonym of happy is joyful.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_003",
+    "questionText": "Find the antonym of 'Fast':",
+    "options": [
+      "Quick",
+      "Rapid",
+      "Slow",
+      "Speedy"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Opposite of fast is slow.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_004",
+    "questionText": "Choose the correct word: He ___ playing football.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "be"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "He is playing football.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_005",
+    "questionText": "Choose the correct article: ___ apple a day keeps the doctor away.",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "No article"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "An apple a day...",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_006",
+    "questionText": "Fill in the blank: She has ___ dog.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "none"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "She has a dog.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_007",
+    "questionText": "Find the plural of 'Child':",
+    "options": [
+      "Childs",
+      "Children",
+      "Childes",
+      "Childrens"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Plural is children.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_008",
+    "questionText": "Change to past tense: 'Go'",
+    "options": [
+      "Gone",
+      "Went",
+      "Goes",
+      "Going"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Past tense is went.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_009",
+    "questionText": "Find the synonym of 'Beautiful':",
+    "options": [
+      "Ugly",
+      "Pretty",
+      "Dirty",
+      "Plain"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Synonym is pretty.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_010",
+    "questionText": "Choose the correct preposition: He is fond ___ music.",
+    "options": [
+      "at",
+      "of",
+      "in",
+      "for"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "He is fond of music.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_011",
+    "questionText": "Identify the adjective: The sky is blue.",
+    "options": [
+      "sky",
+      "is",
+      "blue",
+      "the"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Blue is the adjective.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_012",
+    "questionText": "Find the antonym of 'Rich':",
+    "options": [
+      "Wealthy",
+      "Poor",
+      "Happy",
+      "Kind"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Opposite of rich is poor.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_013",
+    "questionText": "Choose the correct form: She ___ to school daily.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "She goes to school.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_014",
+    "questionText": "Pick the correct sentence:",
+    "options": [
+      "He go to school.",
+      "He goes to school.",
+      "He gone to school.",
+      "He going to school."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Correct: He goes to school.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_015",
+    "questionText": "Which word is a noun?",
+    "options": [
+      "Run",
+      "Quick",
+      "Happiness",
+      "Slowly"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Happiness is a noun.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_016",
+    "questionText": "Choose correct spelling:",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receeve",
+      "Receve"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Correct spelling is receive.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_017",
+    "questionText": "Choose the correct word: Their/There going home.",
+    "options": [
+      "Their",
+      "There",
+      "They\u2019re",
+      "They are"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Correct: They're going home.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_018",
+    "questionText": "Find the plural of 'Mouse':",
+    "options": [
+      "Mouses",
+      "Mouse",
+      "Mice",
+      "Meese"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Plural is mice.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_019",
+    "questionText": "Choose correct word: It ___ raining.",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It is raining.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "eng_020",
+    "questionText": "Find the antonym of 'Clean':",
+    "options": [
+      "Dirty",
+      "Clear",
+      "Pure",
+      "Neat"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Opposite of clean is dirty.",
+    "category": "English",
+    "difficulty": "easy"
+  },
+  {
+    "id": "reason_001",
+    "questionText": "If all cats are animals, and some animals are pets, then:",
+    "options": [
+      "All pets are cats",
+      "Some cats are pets",
+      "No cats are pets",
+      "All animals are pets"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Some cats are pets.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_002",
+    "questionText": "Find the odd one out: 2, 4, 6, 9",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "9"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "9 is odd, others are even.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_003",
+    "questionText": "Find the next number: 1, 4, 9, 16, ?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "36"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Pattern: squares \u2192 25",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_004",
+    "questionText": "In a code, CAT = DBU, then DOG = ?",
+    "options": [
+      "EHP",
+      "EPH",
+      "FHP",
+      "FPI"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Each letter +1 \u2192 DOG\u2192EHP",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_005",
+    "questionText": "Which is different: Apple, Mango, Carrot, Banana",
+    "options": [
+      "Apple",
+      "Mango",
+      "Carrot",
+      "Banana"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Carrot is a vegetable.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_006",
+    "questionText": "A is B\u2019s mother\u2019s brother. How is A related to B?",
+    "options": [
+      "Father",
+      "Uncle",
+      "Grandfather",
+      "Brother"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "A is uncle of B.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_007",
+    "questionText": "If 5\u00d73=28, 6\u00d72=26, 7\u00d71=24, then 8\u00d70=?",
+    "options": [
+      "20",
+      "22",
+      "18",
+      "16"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Pattern: (a\u00d7b)+13.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_008",
+    "questionText": "Find missing: A, C, E, G, ?",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Skipping one letter each \u2192 J",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_009",
+    "questionText": "Choose odd one: Circle, Square, Triangle, Cone",
+    "options": [
+      "Circle",
+      "Square",
+      "Triangle",
+      "Cone"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Cone is 3D.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_010",
+    "questionText": "Which number is different: 11, 13, 15, 17",
+    "options": [
+      "11",
+      "13",
+      "15",
+      "17"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "15 is not prime.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_011",
+    "questionText": "If 1 = 3, 2 = 6, 3 = 9, then 4 = ?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "\u00d73 pattern \u2192 4\u00d73=12",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_012",
+    "questionText": "Which comes next: Monday, Tuesday, Wednesday, ?",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "Monday"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Next is Thursday.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_013",
+    "questionText": "Complete: 2, 6, 12, 20, ?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Add +4, +6, +8 \u2192 +10 = 30",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_014",
+    "questionText": "If 8=64, 6=36, 9=81, then 10=?",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "10\u00b2 = 100",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_015",
+    "questionText": "Choose the correct pair: Book: Reading :: Pen: ?",
+    "options": [
+      "Write",
+      "Ink",
+      "Drawing",
+      "Paper"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Book\u2192Reading; Pen\u2192Writing",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_016",
+    "questionText": "Find missing letter: A, C, F, J, ?",
+    "options": [
+      "O",
+      "P",
+      "Q",
+      "R"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Add +2,+3,+4,+5 \u2192 P",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_017",
+    "questionText": "Which number completes: 3, 6, 12, 24, ?",
+    "options": [
+      "36",
+      "42",
+      "48",
+      "52"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "\u00d72 pattern \u2192 48",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_018",
+    "questionText": "If 9 + 6 = 45, 8 + 4 = 32, then 7 + 3 = ?",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "24"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "\u00d74 pattern \u2192 7\u00d73=21",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_019",
+    "questionText": "Choose odd one: Pen, Pencil, Eraser, Table",
+    "options": [
+      "Pen",
+      "Pencil",
+      "Eraser",
+      "Table"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Table is furniture.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "reason_020",
+    "questionText": "Find mirror image of 2.",
+    "options": [
+      "2",
+      "5",
+      "S",
+      "Z"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "Mirror of 2 looks like Z.",
+    "category": "Reasoning",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_001",
+    "questionText": "Who is the current Prime Minister of India (2025)?",
+    "options": [
+      "Narendra Modi",
+      "Rahul Gandhi",
+      "Amit Shah",
+      "Arvind Kejriwal"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Narendra Modi is the PM of India.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_002",
+    "questionText": "Which country hosted the 2024 Olympic Games?",
+    "options": [
+      "Japan",
+      "France",
+      "USA",
+      "China"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Paris, France hosted 2024 Olympics.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_003",
+    "questionText": "Which Indian state launched the 'Mission Buniyaad' program?",
+    "options": [
+      "Delhi",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Haryana"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Delhi government launched it.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_004",
+    "questionText": "Who won the 2024 ICC T20 World Cup?",
+    "options": [
+      "India",
+      "Australia",
+      "England",
+      "Pakistan"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "India won the 2024 T20 World Cup.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_005",
+    "questionText": "Which company became India\u2019s first $4 trillion market cap company?",
+    "options": [
+      "Reliance",
+      "TCS",
+      "Infosys",
+      "HDFC Bank"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Reliance achieved this milestone.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_006",
+    "questionText": "Which planet did NASA\u2019s 2024 mission aim to explore?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "NASA\u2019s DAVINCI+ targets Venus.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_007",
+    "questionText": "Who is the current President of the USA (2025)?",
+    "options": [
+      "Joe Biden",
+      "Donald Trump",
+      "Kamala Harris",
+      "Barack Obama"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Donald Trump (as of 2025).",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_008",
+    "questionText": "Which Indian city topped the Smart City Index 2024?",
+    "options": [
+      "Surat",
+      "Pune",
+      "Indore",
+      "Ahmedabad"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "Indore ranked 1st.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_009",
+    "questionText": "Which country won the FIFA World Cup 2022?",
+    "options": [
+      "France",
+      "Argentina",
+      "Brazil",
+      "Croatia"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Argentina won FIFA 2022.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_010",
+    "questionText": "Which film won the Best Picture at Oscars 2024?",
+    "options": [
+      "Oppenheimer",
+      "Barbie",
+      "Killers of the Flower Moon",
+      "Poor Things"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Oppenheimer won Best Picture.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_011",
+    "questionText": "Who is the CEO of OpenAI (2025)?",
+    "options": [
+      "Sam Altman",
+      "Elon Musk",
+      "Satya Nadella",
+      "Sundar Pichai"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Sam Altman is the CEO of OpenAI.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_012",
+    "questionText": "Which Indian mission explored the Sun?",
+    "options": [
+      "Chandrayaan-3",
+      "Aditya-L1",
+      "Mangalyaan",
+      "Surya Mission"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Aditya-L1 studies the Sun.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_013",
+    "questionText": "Which country launched the world's first AI law?",
+    "options": [
+      "India",
+      "USA",
+      "EU",
+      "China"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "EU launched the first AI Act.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_014",
+    "questionText": "Which Indian city hosted G20 Summit 2023?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Delhi hosted the G20 Summit.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_015",
+    "questionText": "Which Indian received Nobel Prize 2023?",
+    "options": [
+      "Abhijit Banerjee",
+      "Venki Ramakrishnan",
+      "C.N.R. Rao",
+      "No Indian"
+    ],
+    "correctAnswerIndex": 3,
+    "explanation": "No Indian received Nobel 2023.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_016",
+    "questionText": "Which company launched ChatGPT?",
+    "options": [
+      "Google",
+      "Meta",
+      "OpenAI",
+      "Amazon"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "ChatGPT was developed by OpenAI.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_017",
+    "questionText": "Which state launched 'Mukhyamantri Ladli Behna Yojana'?",
+    "options": [
+      "UP",
+      "MP",
+      "Bihar",
+      "Gujarat"
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "Madhya Pradesh launched it.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_018",
+    "questionText": "Which country won Asia Cup 2023?",
+    "options": [
+      "Pakistan",
+      "Sri Lanka",
+      "India",
+      "Bangladesh"
+    ],
+    "correctAnswerIndex": 2,
+    "explanation": "India won Asia Cup 2023.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_019",
+    "questionText": "Which is India\u2019s fastest train as of 2025?",
+    "options": [
+      "Vande Bharat Express",
+      "Rajdhani",
+      "Shatabdi",
+      "Duronto"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Vande Bharat Express is fastest.",
+    "category": "Current Affairs",
+    "difficulty": "medium"
+  },
+  {
+    "id": "ca_020",
+    "questionText": "Who is the current Chief Justice of India (2025)?",
+    "options": [
+      "DY Chandrachud",
+      "N.V. Ramana",
+      "UU Lalit",
+      "Arun Mishra"
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Justice DY Chandrachud is the CJI.",
+    "category": "Current Affairs",
     "difficulty": "medium"
   }
-
-  // ⬇ Next categories continue (Quantitative Aptitude, English, Reasoning, Current Affairs)
 ]
