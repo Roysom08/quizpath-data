@@ -26,5 +26,14 @@
     "explanation": "The correct spelling is \"Accommodate\" with double m and double c.",
     "category": "English",
     "difficulty": "easy"
-  }
+  },
+  {
+      "id": "reason_001",
+      "questionText": "If all cats are animals, and some animals are pets, then:",
+      "options": ["All pets are cats", "Some cats are pets", "No cats are pets", "All animals are pets"],
+      "correctAnswerIndex": 1,
+      "explanation": "Some animals are pets and all cats are animals → some cats are pets.",
+      "category": "Reasoning",
+      "difficulty": "medium"
+    }
 ]
